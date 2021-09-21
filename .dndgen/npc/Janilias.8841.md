@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Average
 
-
 ## Personality
 
 - Crafty
@@ -23,17 +22,12 @@
 - Stoic
 - Pompous
 
-
 ## Plot Hook
 
 - She needs the party to steal from Ilikan Ogolakanu.
 
-
 ## Links
 
-- Often found at: [The Wistful Wyvern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wistful_Wyvern.2319.md)
-
+- Often found at: [The Wistful Wyvern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wistful_Wyvern.2319.md)
 
 ## Event Log
-
-

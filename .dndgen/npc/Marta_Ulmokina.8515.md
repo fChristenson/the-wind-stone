@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Handsome
 
-
 ## Personality
 
 - Mannerless
@@ -23,17 +22,12 @@
 - Sanctimonious
 - Dissolute
 
-
 ## Plot Hook
 
 - He is engaged in criminal activity
 
-
 ## Links
 
-- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Playful_Party_Place.8824.md)
-
+- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Playful_Party_Place.8824.md)
 
 ## Event Log
-
-

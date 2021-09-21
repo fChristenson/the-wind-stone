@@ -14,7 +14,6 @@
 - Eye Color: Dark Mahogany
 - Face: Pretty
 
-
 ## Personality
 
 - Disorganized
@@ -23,17 +22,12 @@
 - Self Critical
 - Domineering
 
-
 ## Plot Hook
 
 - She has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Often found at: [Fired Demon](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fired_Demon.1411.md)
-
+- Often found at: [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
 
 ## Event Log
-
-

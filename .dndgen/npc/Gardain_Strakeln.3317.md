@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Rough
 
-
 ## Personality
 
 - Old Fashined
@@ -23,17 +22,12 @@
 - Persuasive
 - Disorderly
 
-
 ## Plot Hook
 
 - He is secretly hunting the players on behalf of Amafrey Dundragon
 
-
 ## Links
 
-- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
-
+- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
 
 ## Event Log
-
-

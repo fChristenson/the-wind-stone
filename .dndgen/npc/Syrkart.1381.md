@@ -14,7 +14,6 @@
 - Eye Color: Orange
 - Face: Ugly
 
-
 ## Personality
 
 - Grand
@@ -23,17 +22,12 @@
 - Obvious
 - Curious
 
-
 ## Plot Hook
 
 - He is secretly having an affair with Lidda Brushgather
 
-
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-

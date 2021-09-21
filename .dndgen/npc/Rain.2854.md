@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Rough
 
-
 ## Personality
 
 - Odd
@@ -23,17 +22,12 @@
 - Overimaginative
 - Extraordinary
 
-
 ## Plot Hook
 
 - She needs the party to go hunting with Prezhlek.
 
-
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Rainhill.1881.md)
-
+- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
 
 ## Event Log
-
-

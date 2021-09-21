@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Average
 
-
 ## Personality
 
 - Impersonal
@@ -23,17 +22,12 @@
 - Invulnerable
 - Suave
 
-
 ## Plot Hook
 
 - She is secretly related to Rumag
 
-
 ## Links
 
-- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rain_Cloud.2126.md)
-
+- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
 
 ## Event Log
-
-

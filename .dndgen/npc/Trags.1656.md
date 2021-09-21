@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Handsome
 
-
 ## Personality
 
 - Courteous
@@ -23,17 +22,12 @@
 - Crebral
 - Stoiid
 
-
 ## Plot Hook
 
 - He is secretly sabotaging the players on behalf of Vimak Vaimei - Laga
 
-
 ## Links
 
-- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Fox_Hole.8188.md)
-
+- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Fox_Hole.8188.md)
 
 ## Event Log
-
-

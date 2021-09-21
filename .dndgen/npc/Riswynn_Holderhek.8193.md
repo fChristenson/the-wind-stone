@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Average
 
-
 ## Personality
 
 - Neat
@@ -23,17 +22,12 @@
 - Unpatriotic
 - Dogmatic
 
-
 ## Plot Hook
 
 - She is organizing a cooking competition. The prize will be [Ring of Elemental Command](https://www.dndbeyond.com/magic-items/ring-of-elemental-command).
 
-
 ## Links
 
-- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Creative_Marquee.1182.md)
-
+- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
 
 ## Event Log
-
-

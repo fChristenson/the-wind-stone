@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Rough
 
-
 ## Personality
 
 - Incurious
@@ -23,17 +22,12 @@
 - Puritanical
 - Familial
 
-
 ## Plot Hook
 
 - He is secretly sabotaging the players on behalf of Wural
 
-
 ## Links
 
-- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
-
+- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
 
 ## Event Log
-
-

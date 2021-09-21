@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Kind
 
-
 ## Personality
 
 - Urbane
@@ -23,17 +22,12 @@
 - Esthetic
 - Moody
 
-
 ## Plot Hook
 
 - She has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Often found at: [Grik’s Bar and Billiards](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Grik’s_Bar_and_Billiards.1571.md)
-
+- Often found at: [Grik’s Bar and Billiards](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Grik’s_Bar_and_Billiards.1571.md)
 
 ## Event Log
-
-

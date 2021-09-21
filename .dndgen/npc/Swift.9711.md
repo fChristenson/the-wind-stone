@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Handsome
 
-
 ## Personality
 
 - Moralistic
@@ -23,17 +22,12 @@
 - Active
 - Articulate
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players on behalf of Theren Liadon (Silverfrond)
 
-
 ## Links
 
-- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
-
+- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
 
 ## Event Log
-
-

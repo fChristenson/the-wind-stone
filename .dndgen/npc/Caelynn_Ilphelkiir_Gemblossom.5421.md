@@ -14,7 +14,6 @@
 - Eye Color: Red
 - Face: Rough
 
-
 ## Personality
 
 - Impressionable
@@ -23,17 +22,12 @@
 - Thorough
 - Aimless
 
-
 ## Plot Hook
 
 - She is secretly going to murder the players on behalf of Chrirdan
 
-
 ## Links
 
-- Npc's tavern: [The Fox Hole](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Fox_Hole.8188.md)
-
+- Npc's tavern: [The Fox Hole](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Fox_Hole.8188.md)
 
 ## Event Log
-
-

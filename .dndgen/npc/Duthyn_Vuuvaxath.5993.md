@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Kind
 
-
 ## Personality
 
 - Moody
@@ -23,17 +22,12 @@
 - Original
 - Indulgent
 
-
 ## Plot Hook
 
 - She is secretly having an affair with Birel Naïlo (Nightbreeze)
 
-
 ## Links
 
-- Often found at: [The Wild Side](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wild_Side.3216.md)
-
+- Often found at: [The Wild Side](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wild_Side.3216.md)
 
 ## Event Log
-
-

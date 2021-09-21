@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Rough
 
-
 ## Personality
 
 - Friendly
@@ -23,17 +22,12 @@
 - Devious
 - Unappreciative
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [Icarus Descending](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Icarus_Descending.6666.md)
-
+- Often found at: [Icarus Descending](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Icarus_Descending.6666.md)
 
 ## Event Log
-
-

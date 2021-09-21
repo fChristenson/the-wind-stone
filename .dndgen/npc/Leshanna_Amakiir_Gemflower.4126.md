@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Ugly
 
-
 ## Personality
 
 - Gallant
@@ -23,17 +22,12 @@
 - Mistaken
 - Forecful
 
-
 ## Plot Hook
 
 - She is secretly helping the players on behalf of Leas
 
-
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Saint_Bees.8574.md)
-
+- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
 
 ## Event Log
-
-

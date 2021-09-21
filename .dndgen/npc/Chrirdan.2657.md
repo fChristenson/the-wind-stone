@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Rough
 
-
 ## Personality
 
 - Fraudulent
@@ -23,17 +22,12 @@
 - Ridiculous
 - Kind
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players on behalf of Ostani
 
-
 ## Links
 
-- Npc's tavern: [The Wild Side](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wild_Side.3216.md)
-
+- Npc's tavern: [The Wild Side](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wild_Side.3216.md)
 
 ## Event Log
-
-

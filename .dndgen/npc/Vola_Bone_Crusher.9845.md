@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Worn
 
-
 ## Personality
 
 - Sympathetic
@@ -23,17 +22,12 @@
 - Abrasive
 - Mannered
 
-
 ## Plot Hook
 
 - She is engaged in a thieves guild
 
-
 ## Links
 
-- Often found at: [Happy Orc](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Happy_Orc.7559.md)
-
+- Often found at: [Happy Orc](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Happy_Orc.7559.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Handsome
 
-
 ## Personality
 
 - Imitative
@@ -23,17 +22,12 @@
 - Procrastinating
 - Timid
 
-
 ## Plot Hook
 
 - He has a [Leatherworker's Tools](https://www.dndbeyond.com/equipment/leatherworkers-tools) that is very valuable.
 
-
 ## Links
 
-- Often found at: [Icarus Descending](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Icarus_Descending.6666.md)
-
+- Often found at: [Icarus Descending](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Icarus_Descending.6666.md)
 
 ## Event Log
-
-

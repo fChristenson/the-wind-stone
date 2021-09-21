@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Ugly
 
-
 ## Personality
 
 - Resourceful
@@ -23,17 +22,12 @@
 - Ebullient
 - Inconsiderate
 
-
 ## Plot Hook
 
 - He is secretly having an affair with Lavinia Underbough
 
-
 ## Links
 
-- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Strangled_Cat.6493.md)
-
+- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Strangled_Cat.6493.md)
 
 ## Event Log
-
-

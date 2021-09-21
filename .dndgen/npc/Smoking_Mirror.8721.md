@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Handsome
 
-
 ## Personality
 
 - Dignified
@@ -23,17 +22,12 @@
 - Kind
 - Brittle
 
-
 ## Plot Hook
 
 - She is organizing a dueling competition. The prize will be [Wand Sheath](https://www.dndbeyond.com/magic-items/wand-sheath).
 
-
 ## Links
 
-- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
-
+- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
 
 ## Event Log
-
-

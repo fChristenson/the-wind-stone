@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Handsome
 
-
 ## Personality
 
 - Unhurried
@@ -23,17 +22,12 @@
 - Unimpressive
 - Casual
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [The Cup and Mug](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Cup_and_Mug.6863.md)
-
+- Often found at: [The Cup and Mug](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Cup_and_Mug.6863.md)
 
 ## Event Log
-
-

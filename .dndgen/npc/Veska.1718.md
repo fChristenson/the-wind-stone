@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Rough
 
-
 ## Personality
 
 - Scornful
@@ -23,17 +22,12 @@
 - Stupid
 - Multi Leveled
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players on behalf of Ostani
 
-
 ## Links
 
-- Npc's tavern: [Wobbling Goblin](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Wobbling_Goblin.2931.md)
-
+- Npc's tavern: [Wobbling Goblin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Wobbling_Goblin.2931.md)
 
 ## Event Log
-
-

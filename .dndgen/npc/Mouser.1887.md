@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Rough
 
-
 ## Personality
 
 - Pedantic
@@ -23,17 +22,12 @@
 - Bland
 - Discouraging
 
-
 ## Plot Hook
 
 - He is engaged in a dark wizards guild
 
-
 ## Links
 
-- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Drift_On_Inn.6181.md)
-
+- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Worn
 
-
 ## Personality
 
 - Realistic
@@ -23,17 +22,12 @@
 - Irreverent
 - Subtle
 
-
 ## Plot Hook
 
 - He is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Often found at: [Citadel](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Citadel.7683.md)
-
+- Often found at: [Citadel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Citadel.7683.md)
 
 ## Event Log
-
-

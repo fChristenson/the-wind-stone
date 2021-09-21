@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Kind
 
-
 ## Personality
 
 - Kind
@@ -23,17 +22,12 @@
 - Discreet
 - Tidy
 
-
 ## Plot Hook
 
 - He is secretly poisoning the players.
 
-
 ## Links
 
-- Often found at: [The Wanton Wench](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wanton_Wench.3352.md)
-
+- Often found at: [The Wanton Wench](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wanton_Wench.3352.md)
 
 ## Event Log
-
-

@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Kava Shestendeliath](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Kava_Shestendeliath.9342.md)
-
+[Kava Shestendeliath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Kava_Shestendeliath.9342.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in a poor state.
 The inside of the shop is well kept.
 On the walls there are bookshelves.
 
-
 ## Inventory
 
 - 1 x [Elven Chain](https://www.dndbeyond.com/magic-items/elven-chain) 3000gp
@@ -26,12 +24,8 @@ On the walls there are bookshelves.
 - 1 x [Elven Chain](https://www.dndbeyond.com/magic-items/elven-chain) 3000gp
 - 1 x [Hide of the Feral Guardian](https://www.dndbeyond.com/magic-items/hide-of-the-feral-guardian) 150000gp
 
-
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Rainhill.1881.md)
-
+- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Kind
 
-
 ## Personality
 
 - Dreamy
@@ -23,17 +22,12 @@
 - Unappreciative
 - Multi Leveled
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [Queens Head](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Queens_Head.1769.md)
-
+- Often found at: [Queens Head](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Queens_Head.1769.md)
 
 ## Event Log
-
-

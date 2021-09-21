@@ -14,7 +14,6 @@
 - Eye Color: Red
 - Face: Average
 
-
 ## Personality
 
 - Mannerless
@@ -23,17 +22,12 @@
 - Clever
 - Well Bred
 
-
 ## Plot Hook
 
 - She is secretly stealing from Thomkk
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

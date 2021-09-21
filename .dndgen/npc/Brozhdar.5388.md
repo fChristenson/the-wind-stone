@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Worn
 
-
 ## Personality
 
 - Precise
@@ -23,17 +22,12 @@
 - Unceremonious
 - Sharing
 
-
 ## Plot Hook
 
 - He is secretly going to murder the players.
 
-
 ## Links
 
-- Npc's tavern: [Queens Head](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Queens_Head.1769.md)
-
+- Npc's tavern: [Queens Head](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Queens_Head.1769.md)
 
 ## Event Log
-
-

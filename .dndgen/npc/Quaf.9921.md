@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Average
 
-
 ## Personality
 
 - Amusing
@@ -23,17 +22,12 @@
 - Solid
 - Arrogantt
 
-
 ## Plot Hook
 
 - He needs help finding a [Black Sapphire](https://www.dndbeyond.com/equipment/black-sapphire).
 
-
 ## Links
 
-- Npc's tavern: [Fire Mountain Brewery](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
-
+- Npc's tavern: [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
 
 ## Event Log
-
-

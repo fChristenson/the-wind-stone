@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Ugly
 
-
 ## Personality
 
 - Freewheeling
@@ -23,17 +22,12 @@
 - Irreverent
 - Astigmatic
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [The Boar's Chase](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Boars_Chase.6165.md)
-
+- Often found at: [The Boar's Chase](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boars_Chase.6165.md)
 
 ## Event Log
-
-

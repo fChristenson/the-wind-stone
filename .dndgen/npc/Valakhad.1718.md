@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Kind
 
-
 ## Personality
 
 - Disciplined
@@ -23,17 +22,12 @@
 - Invisible
 - Abrupt
 
-
 ## Plot Hook
 
 - She is possessed by an evil spirit who makes her do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Often found at: [The Wanton Wench](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wanton_Wench.3352.md)
-
+- Often found at: [The Wanton Wench](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wanton_Wench.3352.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Rough
 
-
 ## Personality
 
 - Domineering
@@ -23,17 +22,12 @@
 - Cute
 - Envious
 
-
 ## Plot Hook
 
 - She is engaged in alchemy
 
-
 ## Links
 
-- Often found at: [Axehandle Ale](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Axehandle_Ale.5811.md)
-
+- Often found at: [Axehandle Ale](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Axehandle_Ale.5811.md)
 
 ## Event Log
-
-

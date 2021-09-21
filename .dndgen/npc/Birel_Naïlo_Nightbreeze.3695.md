@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Worn
 
-
 ## Personality
 
 - Naive
@@ -23,17 +22,12 @@
 - Courteous
 - Sedentary
 
-
 ## Plot Hook
 
 - She has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Npc's tavern: [Icarus Descending](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Icarus_Descending.6666.md)
-
+- Npc's tavern: [Icarus Descending](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Icarus_Descending.6666.md)
 
 ## Event Log
-
-

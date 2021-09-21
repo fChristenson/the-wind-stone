@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Cat](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Cat.2369.md)
-
+[Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Cat.2369.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in a poor state.
 The inside of the shop is cozy.
 On the walls there are bookshelves.
 
-
 ## Inventory
 
 - 1 x [Storm Boomerang](https://www.dndbeyond.com/magic-items/storm-boomerang) 500gp
@@ -26,12 +24,8 @@ On the walls there are bookshelves.
 - 1 x [Berserker Axe](https://www.dndbeyond.com/magic-items/berserker-axe) 5000gp
 - 1 x [Revenant Double-Bladed Scimitar](https://www.dndbeyond.com/magic-items/revenant-double-bladed-scimitar) 150000gp
 
-
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-

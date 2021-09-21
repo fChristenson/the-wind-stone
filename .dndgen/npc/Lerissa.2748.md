@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Worn
 
-
 ## Personality
 
 - Formal
@@ -23,17 +22,12 @@
 - Good Natured
 - Trusting
 
-
 ## Plot Hook
 
 - She is organizing a eating competition. The prize will be [Shield of Expression](https://www.dndbeyond.com/magic-items/shield-of-expression).
 
-
 ## Links
 
-- Npc's tavern: [The Big Red Dog](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Big_Red_Dog.9364.md)
-
+- Npc's tavern: [The Big Red Dog](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Big_Red_Dog.9364.md)
 
 ## Event Log
-
-

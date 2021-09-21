@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Average
 
-
 ## Personality
 
 - Leisurely
@@ -23,17 +22,12 @@
 - Dramatic
 - Charismatic
 
-
 ## Plot Hook
 
 - She is possessed by an evil spirit who makes her do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
-
+- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Rough
 
-
 ## Personality
 
 - Calculating
@@ -23,17 +22,12 @@
 - Decisive
 - One Sided
 
-
 ## Plot Hook
 
 - She is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Fox_Hole.8188.md)
-
+- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Fox_Hole.8188.md)
 
 ## Event Log
-
-

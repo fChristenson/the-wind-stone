@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Kind
 
-
 ## Personality
 
 - Rustic
@@ -23,17 +22,12 @@
 - Demanding
 - Clever
 
-
 ## Plot Hook
 
 - He is secretly helping the players on behalf of Yaotal
 
-
 ## Links
 
-- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Wobbling_Goblin.2931.md)
-
+- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Wobbling_Goblin.2931.md)
 
 ## Event Log
-
-

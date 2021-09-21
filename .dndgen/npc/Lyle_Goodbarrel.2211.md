@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Kind
 
-
 ## Personality
 
 - Dedicated
@@ -23,17 +22,12 @@
 - Effeminate
 - Circumspect
 
-
 ## Plot Hook
 
 - He needs help finding a [Ring of Swimming](https://www.dndbeyond.com/magic-items/ring-of-swimming).
 
-
 ## Links
 
-- Often found at: [The Boar's Chase](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Boars_Chase.6165.md)
-
+- Often found at: [The Boar's Chase](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boars_Chase.6165.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Red
 - Face: Average
 
-
 ## Personality
 
 - Grand
@@ -23,17 +22,12 @@
 - Appreciative
 - Trendy
 
-
 ## Plot Hook
 
 - He is possessed by an evil spirit who makes him do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

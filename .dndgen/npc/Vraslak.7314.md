@@ -14,7 +14,6 @@
 - Eye Color: Orange
 - Face: Pretty
 
-
 ## Personality
 
 - Inhibited
@@ -23,17 +22,12 @@
 - Imaginative
 - Enervated
 
-
 ## Plot Hook
 
 - He is secretly going to murder the players on behalf of Lyle Goodbarrel
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

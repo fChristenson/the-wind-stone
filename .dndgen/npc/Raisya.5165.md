@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Rough
 
-
 ## Personality
 
 - Logical
@@ -23,17 +22,12 @@
 - Faithful
 - Good Natured
 
-
 ## Plot Hook
 
 - She is secretly hunting the players on behalf of Vesmova
 
-
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Corrandulla.2131.md)
-
+- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
 
 ## Event Log
-
-

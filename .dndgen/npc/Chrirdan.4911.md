@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Kind
 
-
 ## Personality
 
 - Dignified
@@ -23,17 +22,12 @@
 - Self Sufficent
 - Pruposeful
 
-
 ## Plot Hook
 
 - She is secretly spying on Ghesh Verthisathurgiesh
 
-
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-

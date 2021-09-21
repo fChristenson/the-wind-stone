@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Pretty
 
-
 ## Personality
 
 - Deceptive
@@ -23,17 +22,12 @@
 - Tasteful
 - Steady
 
-
 ## Plot Hook
 
 - He is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Often found at: [The Wanton Wench](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wanton_Wench.3352.md)
-
+- Often found at: [The Wanton Wench](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wanton_Wench.3352.md)
 
 ## Event Log
-
-

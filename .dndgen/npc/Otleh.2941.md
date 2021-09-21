@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Average
 
-
 ## Personality
 
 - Disturbing
@@ -23,17 +22,12 @@
 - Creative
 - Reactionary
 
-
 ## Plot Hook
 
 - He is secretly poisoning Mas
 
-
 ## Links
 
-- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rain_Cloud.2126.md)
-
+- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
 
 ## Event Log
-
-

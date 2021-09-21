@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Rough
 
-
 ## Personality
 
 - Upright
@@ -23,17 +22,12 @@
 - Pruposeful
 - Studious
 
-
 ## Plot Hook
 
 - He is secretly going to murder the players on behalf of Vola Bone Crusher
 
-
 ## Links
 
-- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Playful_Party_Place.8824.md)
-
+- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Playful_Party_Place.8824.md)
 
 ## Event Log
-
-

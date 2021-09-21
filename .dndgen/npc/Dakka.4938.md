@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Ugly
 
-
 ## Personality
 
 - Daring
@@ -23,17 +22,12 @@
 - Iconoclastic
 - Impressive
 
-
 ## Plot Hook
 
 - She is secretly spying on Jalana Windrivver
 
-
 ## Links
 
-- Npc's shop: [Dakka's Wands and Rods](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Dakkas_Wands_and_Rods.5513.md)
-
+- Npc's shop: [Dakka's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Dakkas_Wands_and_Rods.5513.md)
 
 ## Event Log
-
-

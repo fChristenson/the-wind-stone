@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Rough
 
-
 ## Personality
 
 - Ascetic
@@ -23,17 +22,12 @@
 - Insecure
 - Wishful
 
-
 ## Plot Hook
 
 - He needs the party to poison Zrovozy.
 
-
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Saint_Bees.8574.md)
-
+- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
 
 ## Event Log
-
-

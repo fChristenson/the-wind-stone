@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Rough
 
-
 ## Personality
 
 - Provocative
@@ -23,17 +22,12 @@
 - Courteous
 - Esthetic
 
-
 ## Plot Hook
 
 - She has a [Dread Helm](https://www.dndbeyond.com/magic-items/dread-helm) that is very valuable.
 
-
 ## Links
 
-- Often found at: [The Cup and Mug](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Cup_and_Mug.6863.md)
-
+- Often found at: [The Cup and Mug](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Cup_and_Mug.6863.md)
 
 ## Event Log
-
-

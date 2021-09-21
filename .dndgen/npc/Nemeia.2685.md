@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Kind
 
-
 ## Personality
 
 - Upright
@@ -23,17 +22,12 @@
 - Rational
 - Open
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players on behalf of Brozhdar
 
-
 ## Links
 
-- Often found at: [Student's Hideaway](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Students_Hideaway.5255.md)
-
+- Often found at: [Student's Hideaway](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Students_Hideaway.5255.md)
 
 ## Event Log
-
-

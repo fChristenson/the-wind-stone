@@ -14,7 +14,6 @@
 - Eye Color: Red
 - Face: Kind
 
-
 ## Personality
 
 - Inconsiderate
@@ -23,17 +22,12 @@
 - Well Read
 - Miserly
 
-
 ## Plot Hook
 
 - She is secretly sabotaging the players on behalf of Stromvo
 
-
 ## Links
 
-- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Wobbling_Goblin.2931.md)
-
+- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Wobbling_Goblin.2931.md)
 
 ## Event Log
-
-

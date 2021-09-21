@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Rough
 
-
 ## Personality
 
 - Ascetic
@@ -23,17 +22,12 @@
 - Amoral
 - Uncharitable
 
-
 ## Plot Hook
 
 - He is secretly spying on Lokvurz The Wrath
 
-
 ## Links
 
-- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Drift_On_Inn.6181.md)
-
+- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log
-
-

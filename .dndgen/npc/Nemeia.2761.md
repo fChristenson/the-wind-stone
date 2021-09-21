@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Average
 
-
 ## Personality
 
 - Predatory
@@ -23,17 +22,12 @@
 - Mealymouthed
 - Disputatious
 
-
 ## Plot Hook
 
 - She needs the party to spy on Dagnal Loderr.
 
-
 ## Links
 
-- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Strangled_Cat.6493.md)
-
+- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Strangled_Cat.6493.md)
 
 ## Event Log
-
-

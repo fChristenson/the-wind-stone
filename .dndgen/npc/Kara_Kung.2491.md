@@ -14,7 +14,6 @@
 - Eye Color: Orange
 - Face: Kind
 
-
 ## Personality
 
 - Strong Willed
@@ -23,17 +22,12 @@
 - Open
 - Sensitive
 
-
 ## Plot Hook
 
 - She is secretly going to murder Shandri Shemov
 
-
 ## Links
 
-- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Strangled_Cat.6493.md)
-
+- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Strangled_Cat.6493.md)
 
 ## Event Log
-
-

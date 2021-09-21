@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Worn
 
-
 ## Personality
 
 - Unrestrained
@@ -23,17 +22,12 @@
 - Ritualistic
 - Courageous
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
-
+- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
 
 ## Event Log
-
-

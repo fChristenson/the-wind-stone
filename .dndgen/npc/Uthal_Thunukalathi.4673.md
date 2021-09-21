@@ -14,7 +14,6 @@
 - Eye Color: Red
 - Face: Worn
 
-
 ## Personality
 
 - Discreet
@@ -23,17 +22,12 @@
 - Modest
 - Hateful
 
-
 ## Plot Hook
 
 - He needs the party to kill Navarra Dumein.
 
-
 ## Links
 
-- Often found at: [Queens Head](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Queens_Head.1769.md)
-
+- Often found at: [Queens Head](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Queens_Head.1769.md)
 
 ## Event Log
-
-

@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Koratana](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Koratana.3589.md)
-
+[Koratana](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Koratana.3589.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in a poor state.
 The inside of the shop is cozy.
 On the walls there are decorative weapons.
 
-
 ## Inventory
 
 - 1 x [Rod of the Vonindod](https://www.dndbeyond.com/magic-items/rod-of-the-vonindod) 5000gp
@@ -26,12 +24,8 @@ On the walls there are decorative weapons.
 - 1 x [Wand of Fear](https://www.dndbeyond.com/magic-items/wand-of-fear) 10000gp
 - 1 x [Rod of Lordly Might](https://www.dndbeyond.com/magic-items/rod-of-lordly-might) 30000gp
 
-
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

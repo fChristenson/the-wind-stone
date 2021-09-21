@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Average
 
-
 ## Personality
 
 - Graceless
@@ -23,17 +22,12 @@
 - Criminal
 - Trendy
 
-
 ## Plot Hook
 
 - She is possessed by an evil spirit who makes her do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Rainhill.1881.md)
-
+- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
 
 ## Event Log
-
-

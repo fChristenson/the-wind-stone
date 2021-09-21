@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Kind
 
-
 ## Personality
 
 - Strong Willed
@@ -23,17 +22,12 @@
 - Frugal
 - Preoccupied
 
-
 ## Plot Hook
 
 - He is secretly poisoning Valakhad
 
-
 ## Links
 
-- Npc's tavern: [Student's Hideaway](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Students_Hideaway.5255.md)
-
+- Npc's tavern: [Student's Hideaway](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Students_Hideaway.5255.md)
 
 ## Event Log
-
-

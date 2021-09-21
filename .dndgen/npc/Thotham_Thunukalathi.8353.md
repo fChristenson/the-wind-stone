@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Rough
 
-
 ## Personality
 
 - Barbaric
@@ -23,17 +22,12 @@
 - Gracious
 - Pure
 
-
 ## Plot Hook
 
 - She is engaged in healing magic
 
-
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Handsome
 
-
 ## Personality
 
 - Dedicated
@@ -23,17 +22,12 @@
 - Cold
 - Inert
 
-
 ## Plot Hook
 
 - She has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Often found at: [The Black Barnacle](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Black_Barnacle.9546.md)
-
+- Often found at: [The Black Barnacle](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Black_Barnacle.9546.md)
 
 ## Event Log
-
-

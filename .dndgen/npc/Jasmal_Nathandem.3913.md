@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Pretty
 
-
 ## Personality
 
 - Private
@@ -23,17 +22,12 @@
 - Exciting
 - Strict
 
-
 ## Plot Hook
 
 - He is organizing a drinking competition. The prize will be [Warhorse](https://www.dndbeyond.com/equipment/warhorse).
 
-
 ## Links
 
-- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Playful_Party_Place.8824.md)
-
+- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Playful_Party_Place.8824.md)
 
 ## Event Log
-
-

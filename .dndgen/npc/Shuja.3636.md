@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Worn
 
-
 ## Personality
 
 - Ebullient
@@ -23,17 +22,12 @@
 - Petty
 - Conventional
 
-
 ## Plot Hook
 
 - She is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Strangled_Cat.6493.md)
-
+- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Strangled_Cat.6493.md)
 
 ## Event Log
-
-

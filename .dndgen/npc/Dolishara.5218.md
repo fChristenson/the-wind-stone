@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Worn
 
-
 ## Personality
 
 - Wishful
@@ -23,17 +22,12 @@
 - Farsighted
 - Discontented
 
-
 ## Plot Hook
 
 - He is secretly stealing from the players on behalf of Olga Chergoba
 
-
 ## Links
 
-- Often found at: [The Wayfarer's Lay](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wayfarers_Lay.2621.md)
-
+- Often found at: [The Wayfarer's Lay](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wayfarers_Lay.2621.md)
 
 ## Event Log
-
-

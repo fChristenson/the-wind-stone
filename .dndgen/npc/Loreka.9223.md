@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Kind
 
-
 ## Personality
 
 - Unctuous
@@ -23,17 +22,12 @@
 - Understanding
 - Distractible
 
-
 ## Plot Hook
 
 - She is secretly poisoning Vutha (black)
 
-
 ## Links
 
-- Often found at: [The Boar and Spear](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Boar_and_Spear.4213.md)
-
+- Often found at: [The Boar and Spear](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boar_and_Spear.4213.md)
 
 ## Event Log
-
-

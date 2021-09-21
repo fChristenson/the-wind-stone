@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Ugly
 
-
 ## Personality
 
 - Friendly
@@ -23,17 +22,12 @@
 - Perverse
 - Stupid
 
-
 ## Plot Hook
 
 - She is engaged in criminal activity
 
-
 ## Links
 
-- Npc's shop: [Gragonde of the Flintclaw's Weapons](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Gragonde_of_the_Flintclaws_Weapons.1666.md)
-
+- Npc's shop: [Gragonde of the Flintclaw's Weapons](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Gragonde_of_the_Flintclaws_Weapons.1666.md)
 
 ## Event Log
-
-

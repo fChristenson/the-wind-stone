@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Handsome
 
-
 ## Personality
 
 - Alert
@@ -23,17 +22,12 @@
 - Esthetic
 - Solitary
 
-
 ## Plot Hook
 
 - She is secretly sabotaging the players on behalf of Dath
 
-
 ## Links
 
-- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Strangled_Cat.6493.md)
-
+- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Strangled_Cat.6493.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Average
 
-
 ## Personality
 
 - Unrealistic
@@ -23,17 +22,12 @@
 - Businesslike
 - Uncomplaining
 
-
 ## Plot Hook
 
 - He has a [Abacus](https://www.dndbeyond.com/equipment/abacus) that is very valuable.
 
-
 ## Links
 
-- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Clay_Platters.8764.md)
-
+- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Clay_Platters.8764.md)
 
 ## Event Log
-
-

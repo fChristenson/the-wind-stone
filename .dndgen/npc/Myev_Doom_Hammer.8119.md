@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Average
 
-
 ## Personality
 
 - Fanciful
@@ -23,17 +22,12 @@
 - Incurious
 - Distractible
 
-
 ## Plot Hook
 
 - She is secretly spying on the players on behalf of Gardain Strakeln
 
-
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-

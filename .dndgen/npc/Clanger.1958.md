@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Kind
 
-
 ## Personality
 
 - Reflective
@@ -23,17 +22,12 @@
 - Polished
 - Athletic
 
-
 ## Plot Hook
 
 - She is secretly helping Amafrey Dundragon
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

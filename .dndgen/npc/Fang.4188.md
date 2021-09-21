@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Average
 
-
 ## Personality
 
 - Muddle Headed
@@ -23,17 +22,12 @@
 - Protective
 - Sociable
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players on behalf of Banner
 
-
 ## Links
 
-- Npc's tavern: [Fired Demon](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fired_Demon.1411.md)
-
+- Npc's tavern: [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
 
 ## Event Log
-
-

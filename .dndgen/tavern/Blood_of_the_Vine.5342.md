@@ -2,15 +2,13 @@
 
 ## Owner
 
-[Tes](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Tes.6177.md)
-
+[Tes](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Tes.6177.md)
 
 ## Rooms
 
 - 4 x large good rooms 45sp
 - 2 x large good rooms 33sp
 - 2 x small luxury rooms 36sp
-
 
 ## Menu
 
@@ -24,7 +22,6 @@
 - average porrige 12cp
 - great wine 20cp
 
-
 ## Description
 
 The tavern is a large stone building.
@@ -33,17 +30,12 @@ The building is in great state.
 The inside of the tavern is dirty.
 On the walls there are bookshelves.
 
-
 ## Patrons
 
-- [Wellby High - hill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Wellby_High_-_hill.8281.md)
-
+- [Wellby High - hill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Wellby_High_-_hill.8281.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Saint_Bees.8574.md)
-
+- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Ugly
 
-
 ## Personality
 
 - Miserly
@@ -23,17 +22,12 @@
 - Rustic
 - Self Defacing
 
-
 ## Plot Hook
 
 - She is engaged in an assins guild
 
-
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Handsome
 
-
 ## Personality
 
 - Dignified
@@ -23,17 +22,12 @@
 - Constant
 - Single Minded
 
-
 ## Plot Hook
 
 - She is secretly in love with Vraslak
 
-
 ## Links
 
-- Npc's tavern: [Happy Orc](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Happy_Orc.7559.md)
-
+- Npc's tavern: [Happy Orc](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Happy_Orc.7559.md)
 
 ## Event Log
-
-

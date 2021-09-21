@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Ugly
 
-
 ## Personality
 
 - Droll
@@ -23,17 +22,12 @@
 - Uncooperative
 - Vindictive
 
-
 ## Plot Hook
 
 - She needs the party to go drinking with Urzul Doom Hammer.
 
-
 ## Links
 
-- Often found at: [Student's Hideaway](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Students_Hideaway.5255.md)
-
+- Often found at: [Student's Hideaway](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Students_Hideaway.5255.md)
 
 ## Event Log
-
-

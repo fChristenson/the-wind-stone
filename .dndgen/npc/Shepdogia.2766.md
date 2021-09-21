@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Kind
 
-
 ## Personality
 
 - Assertive
@@ -23,17 +22,12 @@
 - Petty
 - Loquacious
 
-
 ## Plot Hook
 
 - She needs help finding a [Amethyst](https://www.dndbeyond.com/equipment/amethyst).
 
-
 ## Links
 
-- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Creative_Marquee.1182.md)
-
+- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
 
 ## Event Log
-
-

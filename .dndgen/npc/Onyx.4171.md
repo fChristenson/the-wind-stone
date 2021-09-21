@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Worn
 
-
 ## Personality
 
 - Persuasive
@@ -23,17 +22,12 @@
 - Protective
 - Extravagant
 
-
 ## Plot Hook
 
 - She is organizing a eating competition. The prize will be [Vicious Rapier, +1](https://www.dndbeyond.com/magic-items/vicious-rapier-1).
 
-
 ## Links
 
-- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Playful_Party_Place.8824.md)
-
+- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Playful_Party_Place.8824.md)
 
 ## Event Log
-
-

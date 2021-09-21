@@ -14,7 +14,6 @@
 - Eye Color: Dark Mahogany
 - Face: Average
 
-
 ## Personality
 
 - Busy
@@ -23,17 +22,12 @@
 - Perverse
 - Neglectful
 
-
 ## Plot Hook
 
 - She needs the party to persuade Stromvo.
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

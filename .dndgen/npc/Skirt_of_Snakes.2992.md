@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Rough
 
-
 ## Personality
 
 - Dependent
@@ -23,17 +22,12 @@
 - Coarse
 - Sociable
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Creative_Marquee.1182.md)
-
+- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Ugly
 
-
 ## Personality
 
 - Realistic
@@ -23,17 +22,12 @@
 - Teacherly
 - Demanding
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Strangled_Cat.6493.md)
-
+- Often found at: [The Strangled Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Strangled_Cat.6493.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Worn
 
-
 ## Personality
 
 - Esthetic
@@ -23,17 +22,12 @@
 - Self Sufficent
 - Sophisticated
 
-
 ## Plot Hook
 
 - She is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

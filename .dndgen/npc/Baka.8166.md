@@ -14,7 +14,6 @@
 - Eye Color: Dark Mahogany
 - Face: Handsome
 
-
 ## Personality
 
 - Thoughtless
@@ -23,17 +22,12 @@
 - Intense
 - Stable
 
-
 ## Plot Hook
 
 - She is secretly stealing from Jalana Windrivver
 
-
 ## Links
 
-- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rain_Cloud.2126.md)
-
+- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Worn
 
-
 ## Personality
 
 - Dissonant
@@ -23,17 +22,12 @@
 - Crisp
 - Contemptible
 
-
 ## Plot Hook
 
 - She is secretly helping the players.
 
-
 ## Links
 
-- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Clay_Platters.8764.md)
-
+- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Clay_Platters.8764.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Worn
 
-
 ## Personality
 
 - Breezy
@@ -23,17 +22,12 @@
 - Incorruptible
 - Undisciplined
 
-
 ## Plot Hook
 
 - He is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Npc's tavern: [The Cup and Mug](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Cup_and_Mug.6863.md)
-
+- Npc's tavern: [The Cup and Mug](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Cup_and_Mug.6863.md)
 
 ## Event Log
-
-

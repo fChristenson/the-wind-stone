@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Kind
 
-
 ## Personality
 
 - Envious
@@ -23,17 +22,12 @@
 - Methodical
 - Open
 
-
 ## Plot Hook
 
 - She is possessed by an evil spirit who makes her do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Corrandulla.2131.md)
-
+- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
 
 ## Event Log
-
-

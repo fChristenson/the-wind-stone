@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Handsome
 
-
 ## Personality
 
 - Vindictive
@@ -23,17 +22,12 @@
 - Dirty
 - Genuine
 
-
 ## Plot Hook
 
 - He is secretly helping Manuya
 
-
 ## Links
 
-- Npc's tavern: [Blood of the Vine](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Blood_of_the_Vine.5342.md)
-
+- Npc's tavern: [Blood of the Vine](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Blood_of_the_Vine.5342.md)
 
 ## Event Log
-
-

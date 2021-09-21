@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Kind
 
-
 ## Personality
 
 - Old Fashined
@@ -23,17 +22,12 @@
 - Dogmatic
 - Zany
 
-
 ## Plot Hook
 
 - He needs the party to kill Left-Handed Hummingbird.
 
-
 ## Links
 
-- Npc's tavern: [The Wistful Wyvern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wistful_Wyvern.2319.md)
-
+- Npc's tavern: [The Wistful Wyvern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wistful_Wyvern.2319.md)
 
 ## Event Log
-
-

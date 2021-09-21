@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Pretty
 
-
 ## Personality
 
 - Multi Leveled
@@ -23,17 +22,12 @@
 - Unstable
 - Well Meaning
 
-
 ## Plot Hook
 
 - She has a [Hematite](https://www.dndbeyond.com/equipment/hematite) that is very valuable.
 
-
 ## Links
 
-- Often found at: [Student's Hideaway](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Students_Hideaway.5255.md)
-
+- Often found at: [Student's Hideaway](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Students_Hideaway.5255.md)
 
 ## Event Log
-
-

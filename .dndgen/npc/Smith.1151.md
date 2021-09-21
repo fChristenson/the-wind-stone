@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Ugly
 
-
 ## Personality
 
 - High Handed
@@ -23,17 +22,12 @@
 - High Spirited
 - Delicate
 
-
 ## Plot Hook
 
 - He is possessed by an evil spirit who makes him do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Fox_Hole.8188.md)
-
+- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Fox_Hole.8188.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Dark Mahogany
 - Face: Pretty
 
-
 ## Personality
 
 - Strict
@@ -23,17 +22,12 @@
 - Stern
 - Paternalistic
 
-
 ## Plot Hook
 
 - He is possessed by an evil spirit who makes him do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

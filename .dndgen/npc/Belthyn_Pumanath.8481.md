@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Pretty
 
-
 ## Personality
 
 - Dynamic
@@ -23,17 +22,12 @@
 - Dedicated
 - Solitary
 
-
 ## Plot Hook
 
 - She has a [Blasting Powder](https://www.dndbeyond.com/equipment/blasting-powder) that is very valuable.
 
-
 ## Links
 
-- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Wobbling_Goblin.2931.md)
-
+- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Wobbling_Goblin.2931.md)
 
 ## Event Log
-
-

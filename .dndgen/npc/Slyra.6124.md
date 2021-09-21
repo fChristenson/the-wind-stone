@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Rough
 
-
 ## Personality
 
 - Principled
@@ -23,17 +22,12 @@
 - Proud
 - Empathetic
 
-
 ## Plot Hook
 
 - She is secretly going to murder the players on behalf of Rhogar Norixius
 
-
 ## Links
 
-- Often found at: [The Wistful Wyvern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wistful_Wyvern.2319.md)
-
+- Often found at: [The Wistful Wyvern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wistful_Wyvern.2319.md)
 
 ## Event Log
-
-

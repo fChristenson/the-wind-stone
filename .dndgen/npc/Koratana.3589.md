@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Pretty
 
-
 ## Personality
 
 - Imprudent
@@ -23,17 +22,12 @@
 - Indulgent
 - Unconvincing
 
-
 ## Plot Hook
 
 - She is secretly stealing from the players.
 
-
 ## Links
 
-- Npc's shop: [Koratana's Wands and Rods](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Koratanas_Wands_and_Rods.2785.md)
-
+- Npc's shop: [Koratana's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Koratanas_Wands_and_Rods.2785.md)
 
 ## Event Log
-
-

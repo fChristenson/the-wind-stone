@@ -2,13 +2,11 @@
 
 ## Owner
 
-[Sutha](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Sutha.3132.md)
-
+[Sutha](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sutha.3132.md)
 
 ## Rooms
 
 - 3 x large good rooms 32sp
-
 
 ## Menu
 
@@ -19,7 +17,6 @@
 - poor mead 18cp
 - great spirits 18cp
 
-
 ## Description
 
 The tavern is a normal stone building.
@@ -28,17 +25,12 @@ The building is in a poor state.
 The inside of the tavern is dirty.
 On the walls there are decorative weapons.
 
-
 ## Patrons
 
-- [Vola Bone Crusher](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Vola_Bone_Crusher.9845.md)
-
+- [Vola Bone Crusher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vola_Bone_Crusher.9845.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-

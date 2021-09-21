@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Handsome
 
-
 ## Personality
 
 - Extravagant
@@ -23,17 +22,12 @@
 - Warm
 - Sexy
 
-
 ## Plot Hook
 
 - She needs help finding a [Dynamite (Stick)](https://www.dndbeyond.com/equipment/dynamite-stick).
 
-
 ## Links
 
-- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
-
+- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
 
 ## Event Log
-
-

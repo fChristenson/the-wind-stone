@@ -2,13 +2,11 @@
 
 ## Owner
 
-[Halakosh](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Halakosh.2622.md)
-
+[Halakosh](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Halakosh.2622.md)
 
 ## Rooms
 
 - 5 x large good rooms 60sp
-
 
 ## Menu
 
@@ -21,7 +19,6 @@
 - poor rum 32cp
 - great cheese 36cp
 
-
 ## Description
 
 The tavern is a large wood building.
@@ -30,20 +27,15 @@ The building is in great state.
 The inside of the tavern is clean.
 On the walls there are paintings.
 
-
 ## Patrons
 
-- [Vutha (black)](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Vutha_black.4117.md)
-- [Wolyn Pumanath](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Wolyn_Pumanath.1115.md)
-- [Left-Handed Hummingbird](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Left-Handed_Hummingbird.7557.md)
-- [Thomkk](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Thomkk.1972.md)
-
+- [Vutha (black)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vutha_black.4117.md)
+- [Wolyn Pumanath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Wolyn_Pumanath.1115.md)
+- [Left-Handed Hummingbird](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Left-Handed_Hummingbird.7557.md)
+- [Thomkk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Thomkk.1972.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

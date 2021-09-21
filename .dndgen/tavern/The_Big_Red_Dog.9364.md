@@ -2,15 +2,13 @@
 
 ## Owner
 
-[Lerissa](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Lerissa.2748.md)
-
+[Lerissa](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lerissa.2748.md)
 
 ## Rooms
 
 - 1 x medium good rooms 72sp
 - 5 x medium luxury rooms 32sp
 - 5 x large luxury rooms 60sp
-
 
 ## Menu
 
@@ -22,7 +20,6 @@
 - poor mead 48cp
 - poor rum 120cp
 
-
 ## Description
 
 The tavern is a normal wood building.
@@ -31,17 +28,12 @@ The building is in great state.
 The inside of the tavern is cozy.
 On the walls there are paintings.
 
-
 ## Patrons
 
-- [Chrirdan](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Chrirdan.2316.md)
-
+- [Chrirdan](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Chrirdan.2316.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Saint_Bees.8574.md)
-
+- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
 
 ## Event Log
-
-

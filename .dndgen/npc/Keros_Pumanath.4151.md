@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Average
 
-
 ## Personality
 
 - Earnest
@@ -23,17 +22,12 @@
 - Gloomy
 - Friendly
 
-
 ## Plot Hook
 
 - He needs help finding a [Finder’s Goggles](https://www.dndbeyond.com/magic-items/finders-goggles).
 
-
 ## Links
 
-- Npc's tavern: [The Victorious Egret](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Victorious_Egret.9953.md)
-
+- Npc's tavern: [The Victorious Egret](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Victorious_Egret.9953.md)
 
 ## Event Log
-
-

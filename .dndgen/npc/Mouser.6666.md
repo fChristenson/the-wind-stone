@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Handsome
 
-
 ## Personality
 
 - Debonair
@@ -23,17 +22,12 @@
 - Dramatic
 - Well Read
 
-
 ## Plot Hook
 
 - She is organizing a wrestling competition. The prize will be [Living Loot Satchel](https://www.dndbeyond.com/magic-items/living-loot-satchel).
 
-
 ## Links
 
-- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rain_Cloud.2126.md)
-
+- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
 
 ## Event Log
-
-

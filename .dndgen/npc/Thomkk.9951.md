@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Pretty
 
-
 ## Personality
 
 - Unconvincing
@@ -23,17 +22,12 @@
 - Offhand
 - Solemn
 
-
 ## Plot Hook
 
 - She is organizing a hunting competition. The prize will be [Blackstaff](https://www.dndbeyond.com/magic-items/blackstaff).
 
-
 ## Links
 
-- Often found at: [Icarus Descending](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Icarus_Descending.6666.md)
-
+- Often found at: [Icarus Descending](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Icarus_Descending.6666.md)
 
 ## Event Log
-
-

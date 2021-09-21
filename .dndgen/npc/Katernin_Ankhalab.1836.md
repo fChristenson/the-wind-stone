@@ -14,7 +14,6 @@
 - Eye Color: Dark Mahogany
 - Face: Pretty
 
-
 ## Personality
 
 - Imaginative
@@ -23,17 +22,12 @@
 - Shortsighted
 - Miserable
 
-
 ## Plot Hook
 
 - He is secretly hunting the players.
 
-
 ## Links
 
-- Npc's tavern: [Lion and Lantern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Lion_and_Lantern.2699.md)
-
+- Npc's tavern: [Lion and Lantern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Lion_and_Lantern.2699.md)
 
 ## Event Log
-
-

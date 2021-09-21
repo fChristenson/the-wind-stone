@@ -1,4 +1,4 @@
-# The Wind Stone
+# The_Wind_Stone
 
 ## Micro quests
 
@@ -37,7 +37,7 @@
 
 - Catch killer in the act, killer always flees when outnumbered
 - Fight killer 1v1 or catch him as he flees
-  
+
 ### Witness
 
 - Find witness who can testify to have seen changeling in the shape of a npc the party knows could not have done it
@@ -46,5 +46,6 @@
 ## Killer locations
 
 - Home in Braunton
-  
+- Kills first in Saint Bees
+
 TODO: Create victim list and attack schedule

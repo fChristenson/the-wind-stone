@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Pretty
 
-
 ## Personality
 
 - Submissive
@@ -23,17 +22,12 @@
 - Well Meaning
 - Frugal
 
-
 ## Plot Hook
 
 - She is secretly sabotaging Thomkk
 
-
 ## Links
 
-- Often found at: [Fired Demon](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fired_Demon.1411.md)
-
+- Often found at: [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
 
 ## Event Log
-
-

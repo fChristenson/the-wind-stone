@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Worn
 
-
 ## Personality
 
 - Pharissical
@@ -23,17 +22,12 @@
 - Extreme
 - Helpful
 
-
 ## Plot Hook
 
 - She needs the party to spy on Mehen Daardendrian.
 
-
 ## Links
 
-- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Drift_On_Inn.6181.md)
-
+- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log
-
-

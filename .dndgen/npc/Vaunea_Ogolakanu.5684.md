@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Rough
 
-
 ## Personality
 
 - Firm
@@ -23,17 +22,12 @@
 - Frightening
 - Perverse
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Npc's tavern: [The Wayfarer's Lay](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wayfarers_Lay.2621.md)
-
+- Npc's tavern: [The Wayfarer's Lay](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wayfarers_Lay.2621.md)
 
 ## Event Log
-
-

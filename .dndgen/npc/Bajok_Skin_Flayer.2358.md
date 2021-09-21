@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Ugly
 
-
 ## Personality
 
 - Petty
@@ -23,17 +22,12 @@
 - Insecure
 - Fanciful
 
-
 ## Plot Hook
 
 - He is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [Citadel](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Citadel.7683.md)
-
+- Often found at: [Citadel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Citadel.7683.md)
 
 ## Event Log
-
-

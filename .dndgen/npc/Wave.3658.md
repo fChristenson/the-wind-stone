@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Pretty
 
-
 ## Personality
 
 - Farsighted
@@ -23,17 +22,12 @@
 - Phlegmatic
 - Conventional
 
-
 ## Plot Hook
 
 - He is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Npc's tavern: [The Black Barnacle](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Black_Barnacle.9546.md)
-
+- Npc's tavern: [The Black Barnacle](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Black_Barnacle.9546.md)
 
 ## Event Log
-
-

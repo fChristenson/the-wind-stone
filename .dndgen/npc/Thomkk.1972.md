@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Average
 
-
 ## Personality
 
 - Misguided
@@ -23,17 +22,12 @@
 - Leisurely
 - Felicific
 
-
 ## Plot Hook
 
 - He has a [Mirror of Life Trapping](https://www.dndbeyond.com/magic-items/mirror-of-life-trapping) that is very valuable.
 
-
 ## Links
 
-- Often found at: [The Phoenix's Beak](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Phoenixs_Beak.1193.md)
-
+- Often found at: [The Phoenix's Beak](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Phoenixs_Beak.1193.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Kind
 
-
 ## Personality
 
 - Fun Loving
@@ -23,17 +22,12 @@
 - Unrestrained
 - Dull
 
-
 ## Plot Hook
 
 - She is secretly spying on the players.
 
-
 ## Links
 
-- Npc's tavern: [Axehandle Ale](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Axehandle_Ale.5811.md)
-
+- Npc's tavern: [Axehandle Ale](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Axehandle_Ale.5811.md)
 
 ## Event Log
-
-

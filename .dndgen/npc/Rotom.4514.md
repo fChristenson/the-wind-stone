@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Ugly
 
-
 ## Personality
 
 - Secretive
@@ -23,17 +22,12 @@
 - Playful
 - Quiet
 
-
 ## Plot Hook
 
 - He is possessed by an evil spirit who makes him do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Often found at: [Fired Demon](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fired_Demon.1411.md)
-
+- Often found at: [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
 
 ## Event Log
-
-

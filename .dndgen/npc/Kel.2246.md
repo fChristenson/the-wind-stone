@@ -14,7 +14,6 @@
 - Eye Color: Blue
 - Face: Rough
 
-
 ## Personality
 
 - Organized
@@ -23,17 +22,12 @@
 - Teacherly
 - Precise
 
-
 ## Plot Hook
 
 - He is engaged in drug trafficking
 
-
 ## Links
 
-- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rain_Cloud.2126.md)
-
+- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
 
 ## Event Log
-
-

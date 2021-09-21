@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Rough
 
-
 ## Personality
 
 - Inoffensive
@@ -23,17 +22,12 @@
 - Farsighted
 - Disorganized
 
-
 ## Plot Hook
 
 - He needs help finding a [Lapis Lazuli](https://www.dndbeyond.com/equipment/lapis-lazuli).
 
-
 ## Links
 
-- Often found at: [The Black Barnacle](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Black_Barnacle.9546.md)
-
+- Often found at: [The Black Barnacle](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Black_Barnacle.9546.md)
 
 ## Event Log
-
-

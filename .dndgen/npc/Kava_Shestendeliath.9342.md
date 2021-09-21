@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Kind
 
-
 ## Personality
 
 - Leisurely
@@ -23,17 +22,12 @@
 - Stoic
 - Reliable
 
-
 ## Plot Hook
 
 - She has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Npc's shop: [Kava Shestendeliath's Shields & Armor](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Kava_Shestendeliaths_Shields_and_Armor.5245.md)
-
+- Npc's shop: [Kava Shestendeliath's Shields & Armor](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Kava_Shestendeliaths_Shields_and_Armor.5245.md)
 
 ## Event Log
-
-

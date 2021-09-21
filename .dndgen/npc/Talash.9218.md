@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Handsome
 
-
 ## Personality
 
 - Pretentious
@@ -23,17 +22,12 @@
 - Considerate
 - Paranoid
 
-
 ## Plot Hook
 
 - He is possessed by an evil spirit who makes him do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Npc's shop: [Talash's Wands and Rods](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Talashs_Wands_and_Rods.1237.md)
-
+- Npc's shop: [Talash's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Talashs_Wands_and_Rods.1237.md)
 
 ## Event Log
-
-

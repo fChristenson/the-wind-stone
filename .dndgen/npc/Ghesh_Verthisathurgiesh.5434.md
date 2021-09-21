@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Worn
 
-
 ## Personality
 
 - Inert
@@ -23,17 +22,12 @@
 - Mawkish
 - Political
 
-
 ## Plot Hook
 
 - He has a [Orb of Dragonkind](https://www.dndbeyond.com/magic-items/orb-of-dragonkind) that is very valuable.
 
-
 ## Links
 
-- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Creative_Marquee.1182.md)
-
+- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
 
 ## Event Log
-
-

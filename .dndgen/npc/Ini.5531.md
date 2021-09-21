@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Ugly
 
-
 ## Personality
 
 - Fawning
@@ -23,17 +22,12 @@
 - Skeptical
 - Liberal
 
-
 ## Plot Hook
 
 - She is secretly hunting Keros Pumanath
 
-
 ## Links
 
-- Often found at: [Citadel](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Citadel.7683.md)
-
+- Often found at: [Citadel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Citadel.7683.md)
 
 ## Event Log
-
-

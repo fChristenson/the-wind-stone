@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Dakka](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Dakka.4938.md)
-
+[Dakka](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Dakka.4938.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in great state.
 The inside of the shop is clean.
 On the walls there are decorative weapons.
 
-
 ## Inventory
 
 - 1 x [Immovable Rod](https://www.dndbeyond.com/magic-items/immovable-rod) 4000gp
@@ -26,12 +24,8 @@ On the walls there are decorative weapons.
 - 1 x [Wand of Paralysis](https://www.dndbeyond.com/magic-items/wand-of-paralysis) 20000gp
 - 1 x [Wand of Fear](https://www.dndbeyond.com/magic-items/wand-of-fear) 10000gp
 
-
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Saint_Bees.8574.md)
-
+- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
 
 ## Event Log
-
-

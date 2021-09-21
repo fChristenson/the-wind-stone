@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Rough
 
-
 ## Personality
 
 - Extraordinary
@@ -23,17 +22,12 @@
 - Quiet
 - Unsentimental
 
-
 ## Plot Hook
 
 - He needs help finding a [Circlet of Human Perfection](https://www.dndbeyond.com/magic-items/circlet-of-human-perfection).
 
-
 ## Links
 
-- Often found at: [The Black Barnacle](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Black_Barnacle.9546.md)
-
+- Often found at: [The Black Barnacle](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Black_Barnacle.9546.md)
 
 ## Event Log
-
-

@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Gragonde of the Flintclaw](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Gragonde_of_the_Flintclaw.1128.md)
-
+[Gragonde of the Flintclaw](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Gragonde_of_the_Flintclaw.1128.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in great state.
 The inside of the shop is dirty.
 On the walls there are paintings.
 
-
 ## Inventory
 
 - 1 x [Sling Bullets of Althemone](https://www.dndbeyond.com/magic-items/sling-bullets-of-althemone) 50000gp
@@ -26,12 +24,8 @@ On the walls there are paintings.
 - 1 x [Dagger of Venom](https://www.dndbeyond.com/magic-items/dagger-of-venom) 3000gp
 - 1 x [Boomerang, +3](https://www.dndbeyond.com/magic-items/boomerang-3) 50000gp
 
-
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-

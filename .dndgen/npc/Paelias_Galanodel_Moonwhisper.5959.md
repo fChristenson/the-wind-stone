@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Pretty
 
-
 ## Personality
 
 - Repressed
@@ -23,17 +22,12 @@
 - Charismatic
 - Maticulous
 
-
 ## Plot Hook
 
 - He has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Npc's shop: [Paelias Galanodel (Moonwhisper)'s Scrolls and Spells](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Paelias_Galanodel_Moonwhispers_Scrolls_and_Spells.7757.md)
-
+- Npc's shop: [Paelias Galanodel (Moonwhisper)'s Scrolls and Spells](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Paelias_Galanodel_Moonwhispers_Scrolls_and_Spells.7757.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Orange
 - Face: Pretty
 
-
 ## Personality
 
 - Undisciplined
@@ -23,17 +22,12 @@
 - Possessive
 - Original
 
-
 ## Plot Hook
 
 - She is engaged in a dark wizards guild
 
-
 ## Links
 
-- Often found at: [Fired Demon](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fired_Demon.1411.md)
-
+- Often found at: [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Worn
 
-
 ## Personality
 
 - Forgiving
@@ -23,17 +22,12 @@
 - Perfectionist
 - Well Bred
 
-
 ## Plot Hook
 
 - She needs help finding a [Heward's Handy Haversack](https://www.dndbeyond.com/magic-items/hewards-handy-haversack).
 
-
 ## Links
 
-- Npc's shop: [Left-Handed Hummingbird's Wands and Rods](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Left-Handed_Hummingbirds_Wands_and_Rods.1298.md)
-
+- Npc's shop: [Left-Handed Hummingbird's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Left-Handed_Hummingbirds_Wands_and_Rods.1298.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Average
 
-
 ## Personality
 
 - Logical
@@ -23,17 +22,12 @@
 - Political
 - Efficient
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Npc's tavern: [The Step Right Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Step_Right_Inn.4757.md)
-
+- Npc's tavern: [The Step Right Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Step_Right_Inn.4757.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Worn
 
-
 ## Personality
 
 - Muddle Headed
@@ -23,17 +22,12 @@
 - Unpolished
 - Assertive
 
-
 ## Plot Hook
 
 - She is secretly going to murder the players on behalf of Fang
 
-
 ## Links
 
-- Npc's shop: [Cat's Weapons](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Cats_Weapons.9191.md)
-
+- Npc's shop: [Cat's Weapons](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Cats_Weapons.9191.md)
 
 ## Event Log
-
-

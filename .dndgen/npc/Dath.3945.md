@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Average
 
-
 ## Personality
 
 - Weak
@@ -23,17 +22,12 @@
 - Suspicious
 - Perceptive
 
-
 ## Plot Hook
 
 - He is secretly helping the players on behalf of Shepdogia
 
-
 ## Links
 
-- Often found at: [The Boar and Spear](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Boar_and_Spear.4213.md)
-
+- Often found at: [The Boar and Spear](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boar_and_Spear.4213.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Rough
 
-
 ## Personality
 
 - Emotional
@@ -23,17 +22,12 @@
 - Uncooperative
 - Melancholic
 
-
 ## Plot Hook
 
 - He has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

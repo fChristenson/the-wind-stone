@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Ugly
 
-
 ## Personality
 
 - Tasteless
@@ -23,17 +22,12 @@
 - Bizarre
 - Disorganized
 
-
 ## Plot Hook
 
 - He has a [Maul](https://www.dndbeyond.com/equipment/maul) that is very valuable.
 
-
 ## Links
 
-- Often found at: [Queens Head](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Queens_Head.1769.md)
-
+- Often found at: [Queens Head](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Queens_Head.1769.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Ugly
 
-
 ## Personality
 
 - Transparent
@@ -23,17 +22,12 @@
 - Dissolute
 - Skillful
 
-
 ## Plot Hook
 
 - She needs the party to seduce Urreek.
 
-
 ## Links
 
-- Often found at: [Fat Jack's Blues & Grub](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fat_Jacks_Blues_and_Grub.5183.md)
-
+- Often found at: [Fat Jack's Blues & Grub](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fat_Jacks_Blues_and_Grub.5183.md)
 
 ## Event Log
-
-

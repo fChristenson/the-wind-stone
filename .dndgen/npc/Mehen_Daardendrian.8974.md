@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Pretty
 
-
 ## Personality
 
 - Negativistic
@@ -23,17 +22,12 @@
 - Bewildered
 - False
 
-
 ## Plot Hook
 
 - He is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Often found at: [The Wayfarer's Lay](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wayfarers_Lay.2621.md)
-
+- Often found at: [The Wayfarer's Lay](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wayfarers_Lay.2621.md)
 
 ## Event Log
-
-

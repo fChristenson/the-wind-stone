@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Kind
 
-
 ## Personality
 
 - Old Fashined
@@ -23,17 +22,12 @@
 - Presumptuous
 - Plodding
 
-
 ## Plot Hook
 
 - He has a [Hew](https://www.dndbeyond.com/magic-items/hew) that is very valuable.
 
-
 ## Links
 
-- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Clay_Platters.8764.md)
-
+- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Clay_Platters.8764.md)
 
 ## Event Log
-
-

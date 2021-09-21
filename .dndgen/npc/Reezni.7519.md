@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Kind
 
-
 ## Personality
 
 - Self Reliant
@@ -23,17 +22,12 @@
 - Modest
 - Airy
 
-
 ## Plot Hook
 
 - He needs help finding a [Obsidian Flint Dragon Plate](https://www.dndbeyond.com/magic-items/obsidian-flint-dragon-plate).
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

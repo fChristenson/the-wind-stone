@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Ugly
 
-
 ## Personality
 
 - Impulsive
@@ -23,17 +22,12 @@
 - Undogmatic
 - Grand
 
-
 ## Plot Hook
 
 - He is organizing a eating competition. The prize will be [Staff of Fate](https://www.dndbeyond.com/magic-items/staff-of-fate).
 
-
 ## Links
 
-- Npc's tavern: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Npc's tavern: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

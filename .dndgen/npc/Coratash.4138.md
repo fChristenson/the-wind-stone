@@ -14,7 +14,6 @@
 - Eye Color: Orange
 - Face: Handsome
 
-
 ## Personality
 
 - Creative
@@ -23,17 +22,12 @@
 - Sensitive
 - Sharing
 
-
 ## Plot Hook
 
 - He is secretly in love with Kansif Skull Cleaver
 
-
 ## Links
 
-- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
-
+- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
 
 ## Event Log
-
-

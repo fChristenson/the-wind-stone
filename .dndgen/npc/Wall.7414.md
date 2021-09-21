@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Handsome
 
-
 ## Personality
 
 - Modest
@@ -23,17 +22,12 @@
 - Asocial
 - Conciliatory
 
-
 ## Plot Hook
 
 - He is secretly related to Zolis Marsk
 
-
 ## Links
 
-- Npc's tavern: [Drift On Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Drift_On_Inn.6181.md)
-
+- Npc's tavern: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log
-
-

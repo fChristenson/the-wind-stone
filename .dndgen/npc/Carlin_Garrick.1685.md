@@ -14,7 +14,6 @@
 - Eye Color: Dark Mahogany
 - Face: Worn
 
-
 ## Personality
 
 - Appreciative
@@ -23,17 +22,12 @@
 - Nihilistic
 - Timid
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players.
 
-
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Rainhill.1881.md)
-
+- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
 
 ## Event Log
-
-

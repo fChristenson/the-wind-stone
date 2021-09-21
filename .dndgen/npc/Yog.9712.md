@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Ugly
 
-
 ## Personality
 
 - Desperate
@@ -23,17 +22,12 @@
 - Soft
 - Secretive
 
-
 ## Plot Hook
 
 - She is organizing a cooking competition. The prize will be [Net](https://www.dndbeyond.com/equipment/net).
 
-
 ## Links
 
-- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
-
+- Often found at: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
 
 ## Event Log
-
-

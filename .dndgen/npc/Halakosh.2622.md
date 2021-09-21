@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Pretty
 
-
 ## Personality
 
 - Restrained
@@ -23,17 +22,12 @@
 - Lovable
 - Authoritarian
 
-
 ## Plot Hook
 
 - She is secretly sabotaging the players.
 
-
 ## Links
 
-- Npc's tavern: [The Phoenix's Beak](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Phoenixs_Beak.1193.md)
-
+- Npc's tavern: [The Phoenix's Beak](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Phoenixs_Beak.1193.md)
 
 ## Event Log
-
-

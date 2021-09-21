@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Worn
 
-
 ## Personality
 
 - Charmless
@@ -23,17 +22,12 @@
 - Considerate
 - Earnest
 
-
 ## Plot Hook
 
 - He is secretly helping the players on behalf of Molavakri
 
-
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Saint_Bees.8574.md)
-
+- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
 
 ## Event Log
-
-

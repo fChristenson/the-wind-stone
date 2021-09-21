@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Pretty
 
-
 ## Personality
 
 - Unfathomable
@@ -23,17 +22,12 @@
 - Suave
 - One Sided
 
-
 ## Plot Hook
 
 - He needs help finding a [Piwafwi (Cloak of Elvenkind)](https://www.dndbeyond.com/magic-items/piwafwi-cloak-of-elvenkind).
 
-
 ## Links
 
-- Npc's tavern: [Citadel](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Citadel.7683.md)
-
+- Npc's tavern: [Citadel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Citadel.7683.md)
 
 ## Event Log
-
-

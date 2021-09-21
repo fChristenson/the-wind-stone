@@ -2,13 +2,11 @@
 
 ## Owner
 
-[Katernin Ankhalab](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Katernin_Ankhalab.1836.md)
-
+[Katernin Ankhalab](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Katernin_Ankhalab.1836.md)
 
 ## Rooms
 
 - 4 x medium poor rooms 16sp
-
 
 ## Menu
 
@@ -19,7 +17,6 @@
 - average porrige 45cp
 - great porrige 16cp
 
-
 ## Description
 
 The tavern is a large stone building.
@@ -28,17 +25,12 @@ The building is in a poor state.
 The inside of the tavern is cozy.
 On the walls there are paintings.
 
-
 ## Patrons
 
-- [Hulm](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Hulm.9169.md)
-
+- [Hulm](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Hulm.9169.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Rainhill.1881.md)
-
+- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
 
 ## Event Log
-
-

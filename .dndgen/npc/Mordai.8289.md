@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Ugly
 
-
 ## Personality
 
 - Benevolent
@@ -23,17 +22,12 @@
 - Deceitful
 - Cantakerous
 
-
 ## Plot Hook
 
 - He needs the party to steal from Vasool.
 
-
 ## Links
 
-- Often found at: [The Wayfarer's Lay](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wayfarers_Lay.2621.md)
-
+- Often found at: [The Wayfarer's Lay](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wayfarers_Lay.2621.md)
 
 ## Event Log
-
-

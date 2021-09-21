@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Pretty
 
-
 ## Personality
 
 - Gracious
@@ -23,17 +22,12 @@
 - Unimpressive
 - Freewheeling
 
-
 ## Plot Hook
 
 - She is being blackmailed into challenging a PC to a duel to the death.
 
-
 ## Links
 
-- Often found at: [The Phoenix's Beak](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Phoenixs_Beak.1193.md)
-
+- Often found at: [The Phoenix's Beak](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Phoenixs_Beak.1193.md)
 
 ## Event Log
-
-

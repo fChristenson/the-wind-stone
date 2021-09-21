@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Rough
 
-
 ## Personality
 
 - Disrespectful
@@ -23,17 +22,12 @@
 - Prim
 - Odd
 
-
 ## Plot Hook
 
 - She needs help finding a [Wand of Viscid Globs](https://www.dndbeyond.com/magic-items/wand-of-viscid-globs).
 
-
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

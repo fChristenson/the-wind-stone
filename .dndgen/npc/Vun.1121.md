@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Rough
 
-
 ## Personality
 
 - Presumptuous
@@ -23,17 +22,12 @@
 - Bizarre
 - Impressive
 
-
 ## Plot Hook
 
 - He is organizing a cooking competition. The prize will be [Bit and Bridle](https://www.dndbeyond.com/equipment/bit-and-bridle).
 
-
 ## Links
 
-- Often found at: [Axehandle Ale](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Axehandle_Ale.5811.md)
-
+- Often found at: [Axehandle Ale](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Axehandle_Ale.5811.md)
 
 ## Event Log
-
-

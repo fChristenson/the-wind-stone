@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Worn
 
-
 ## Personality
 
 - Softheaded
@@ -23,17 +22,12 @@
 - Arrogantt
 - Submissive
 
-
 ## Plot Hook
 
 - She is engaged in child abuse
 
-
 ## Links
 
-- Often found at: [The Victorious Egret](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Victorious_Egret.9953.md)
-
+- Often found at: [The Victorious Egret](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Victorious_Egret.9953.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Red
 - Face: Ugly
 
-
 ## Personality
 
 - Grim
@@ -23,17 +22,12 @@
 - Intolerant
 - Big Thinking
 
-
 ## Plot Hook
 
 - She needs the party to poison Enna Ilphelkiir (Gemblossom).
 
-
 ## Links
 
-- Often found at: [Grik’s Bar and Billiards](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Grik’s_Bar_and_Billiards.1571.md)
-
+- Often found at: [Grik’s Bar and Billiards](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Grik’s_Bar_and_Billiards.1571.md)
 
 ## Event Log
-
-

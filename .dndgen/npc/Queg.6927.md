@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Pretty
 
-
 ## Personality
 
 - Fickle
@@ -23,17 +22,12 @@
 - Unfoolable
 - Impractical
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players on behalf of Fobits
 
-
 ## Links
 
-- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Fox_Hole.8188.md)
-
+- Often found at: [The Fox Hole](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Fox_Hole.8188.md)
 
 ## Event Log
-
-

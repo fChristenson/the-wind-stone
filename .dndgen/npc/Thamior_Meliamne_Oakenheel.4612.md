@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Handsome
 
-
 ## Personality
 
 - Escapist
@@ -23,17 +22,12 @@
 - Stoic
 - Stupid
 
-
 ## Plot Hook
 
 - He has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Npc's tavern: [The Boar's Chase](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Boars_Chase.6165.md)
-
+- Npc's tavern: [The Boar's Chase](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boars_Chase.6165.md)
 
 ## Event Log
-
-

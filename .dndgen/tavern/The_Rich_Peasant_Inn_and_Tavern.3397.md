@@ -2,15 +2,13 @@
 
 ## Owner
 
-[Bellin](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Bellin.2923.md)
-
+[Bellin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Bellin.2923.md)
 
 ## Rooms
 
 - 5 x large luxury rooms 48sp
 - 3 x medium good rooms 48sp
 - 4 x medium good rooms 54sp
-
 
 ## Menu
 
@@ -21,7 +19,6 @@
 - average bread 24cp
 - average cheese 20cp
 
-
 ## Description
 
 The tavern is a small stone building.
@@ -30,18 +27,13 @@ The building is in a poor state.
 The inside of the tavern is well kept.
 On the walls there are bookshelves.
 
-
 ## Patrons
 
-- [Sindri Timbers](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Sindri_Timbers.1513.md)
-- [Vola Bone Crusher](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Vola_Bone_Crusher.9628.md)
-
+- [Sindri Timbers](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sindri_Timbers.1513.md)
+- [Vola Bone Crusher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vola_Bone_Crusher.9628.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

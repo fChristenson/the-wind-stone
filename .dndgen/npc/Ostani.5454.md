@@ -14,7 +14,6 @@
 - Eye Color: Purple
 - Face: Average
 
-
 ## Personality
 
 - Shallow
@@ -23,17 +22,12 @@
 - Calculating
 - Loyal
 
-
 ## Plot Hook
 
 - She is organizing a hunting competition. The prize will be [Wand of Orcus](https://www.dndbeyond.com/magic-items/wand-of-orcus).
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

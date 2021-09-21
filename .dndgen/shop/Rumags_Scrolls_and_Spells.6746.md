@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Rumag](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Rumag.9247.md)
-
+[Rumag](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rumag.9247.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in great state.
 The inside of the shop is clean.
 On the walls there are bookshelves.
 
-
 ## Inventory
 
 - 1 x [Nether Scroll of Azumar](https://www.dndbeyond.com/magic-items/nether-scroll-of-azumar) 150000gp
@@ -26,12 +24,8 @@ On the walls there are bookshelves.
 - 1 x [Scroll of Tarrasque Summoning](https://www.dndbeyond.com/magic-items/scroll-of-tarrasque-summoning) 150000gp
 - 1 x [Spell Scroll](https://www.dndbeyond.com/magic-items/spell-scroll) 50000gp
 
-
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Corrandulla.2131.md)
-
+- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Orange
 - Face: Worn
 
-
 ## Personality
 
 - Nonauthoritarian
@@ -23,17 +22,12 @@
 - Excitable
 - Educated
 
-
 ## Plot Hook
 
 - She has a [Barding](https://www.dndbeyond.com/equipment/barding) that is very valuable.
 
-
 ## Links
 
-- Npc's tavern: [The Playful Party Place](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Playful_Party_Place.8824.md)
-
+- Npc's tavern: [The Playful Party Place](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Playful_Party_Place.8824.md)
 
 ## Event Log
-
-

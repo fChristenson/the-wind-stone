@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Pretty
 
-
 ## Personality
 
 - Skillful
@@ -23,17 +22,12 @@
 - Stylish
 - Questioning
 
-
 ## Plot Hook
 
 - She is secretly stealing from the players.
 
-
 ## Links
 
-- Often found at: [The Wild Side](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wild_Side.3216.md)
-
+- Often found at: [The Wild Side](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wild_Side.3216.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Pretty
 
-
 ## Personality
 
 - Extravagant
@@ -23,17 +22,12 @@
 - Foolish
 - Unpolished
 
-
 ## Plot Hook
 
 - She is secretly spying on the players.
 
-
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-

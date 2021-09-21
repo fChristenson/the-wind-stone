@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Talash](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Talash.9218.md)
-
+[Talash](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Talash.9218.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in great state.
 The inside of the shop is clean.
 On the walls there are decorative weapons.
 
-
 ## Inventory
 
 - 1 x [Rod of Absorption](https://www.dndbeyond.com/magic-items/rod-of-absorption) 40000gp
@@ -26,12 +24,8 @@ On the walls there are decorative weapons.
 - 1 x [Wand of Polymorph](https://www.dndbeyond.com/magic-items/wand-of-polymorph) 30000gp
 - 1 x [Rod of Alertness](https://www.dndbeyond.com/magic-items/rod-of-alertness) 20000gp
 
-
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Corrandulla.2131.md)
-
+- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
 
 ## Event Log
-
-

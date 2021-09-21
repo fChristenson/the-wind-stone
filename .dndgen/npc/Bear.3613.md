@@ -14,7 +14,6 @@
 - Eye Color: Dusky
 - Face: Pretty
 
-
 ## Personality
 
 - Faithless
@@ -23,17 +22,12 @@
 - Incurious
 - Plodding
 
-
 ## Plot Hook
 
 - She has a [Siberys Dragonshard](https://www.dndbeyond.com/equipment/siberys-dragonshard) that is very valuable.
 
-
 ## Links
 
-- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Clay_Platters.8764.md)
-
+- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Clay_Platters.8764.md)
 
 ## Event Log
-
-

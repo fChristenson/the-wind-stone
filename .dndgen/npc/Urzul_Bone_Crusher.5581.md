@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Handsome
 
-
 ## Personality
 
 - Eloquent
@@ -23,17 +22,12 @@
 - Individualistic
 - Disrespectful
 
-
 ## Plot Hook
 
 - He needs the party to go drinking with Akra Daardendrian.
 
-
 ## Links
 
-- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Creative_Marquee.1182.md)
-
+- Often found at: [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
 
 ## Event Log
-
-

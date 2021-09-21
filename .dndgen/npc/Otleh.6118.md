@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Ugly
 
-
 ## Personality
 
 - Retiring
@@ -23,17 +22,12 @@
 - Profound
 - Old Fashined
 
-
 ## Plot Hook
 
 - He needs help finding a [Instrument of Illusions](https://www.dndbeyond.com/magic-items/instrument-of-illusions).
 
-
 ## Links
 
-- Often found at: [The Boar and Spear](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Boar_and_Spear.4213.md)
-
+- Often found at: [The Boar and Spear](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boar_and_Spear.4213.md)
 
 ## Event Log
-
-

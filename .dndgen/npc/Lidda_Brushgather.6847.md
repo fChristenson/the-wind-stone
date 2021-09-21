@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Average
 
-
 ## Personality
 
 - Gentle
@@ -23,17 +22,12 @@
 - Cooperative
 - Trendy
 
-
 ## Plot Hook
 
 - She needs the party to go hunting with Wave.
 
-
 ## Links
 
-- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-
+- Often found at: [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
 
 ## Event Log
-
-

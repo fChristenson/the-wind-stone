@@ -14,7 +14,6 @@
 - Eye Color: Dark Mahogany
 - Face: Handsome
 
-
 ## Personality
 
 - Fun Loving
@@ -23,17 +22,12 @@
 - Pharissical
 - Clever
 
-
 ## Plot Hook
 
 - He is secretly poisoning the players.
 
-
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Crux_Easton.6711.md)
-
+- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
 
 ## Event Log
-
-

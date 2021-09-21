@@ -14,7 +14,6 @@
 - Eye Color: White
 - Face: Average
 
-
 ## Personality
 
 - Indecisive
@@ -23,17 +22,12 @@
 - Deep
 - Helpful
 
-
 ## Plot Hook
 
 - He needs help finding a [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/quaals-feather-token).
 
-
 ## Links
 
-- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Playful_Party_Place.8824.md)
-
+- Often found at: [The Playful Party Place](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Playful_Party_Place.8824.md)
 
 ## Event Log
-
-

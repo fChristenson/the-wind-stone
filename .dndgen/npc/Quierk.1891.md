@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Kind
 
-
 ## Personality
 
 - Self Defacing
@@ -23,17 +22,12 @@
 - Passionate
 - Dominating
 
-
 ## Plot Hook
 
 - He needs the party to spy on Vlodim.
 
-
 ## Links
 
-- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Wobbling_Goblin.2931.md)
-
+- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Wobbling_Goblin.2931.md)
 
 ## Event Log
-
-

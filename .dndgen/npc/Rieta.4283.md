@@ -14,7 +14,6 @@
 - Eye Color: Brown
 - Face: Kind
 
-
 ## Personality
 
 - Leisurely
@@ -23,17 +22,12 @@
 - Vulnerable
 - Mechanical
 
-
 ## Plot Hook
 
 - She is secretly hunting the players on behalf of Bronn
 
-
 ## Links
 
-- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Drift_On_Inn.6181.md)
-
+- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log
-
-

@@ -14,7 +14,6 @@
 - Eye Color: Gray
 - Face: Handsome
 
-
 ## Personality
 
 - Gracious
@@ -23,17 +22,12 @@
 - Humorous
 - Disorderly
 
-
 ## Plot Hook
 
 - He has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Often found at: [The Boar's Chase](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Boars_Chase.6165.md)
-
+- Often found at: [The Boar's Chase](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boars_Chase.6165.md)
 
 ## Event Log
-
-

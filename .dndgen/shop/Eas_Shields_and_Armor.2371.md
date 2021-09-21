@@ -6,8 +6,7 @@
 
 ## Owner
 
-[Ea](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Ea.2121.md)
-
+[Ea](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ea.2121.md)
 
 ## Description
 
@@ -17,7 +16,6 @@ The building is in a poor state.
 The inside of the shop is well kept.
 On the walls there are paintings.
 
-
 ## Inventory
 
 - 1 x [Living Armor](https://www.dndbeyond.com/magic-items/living-armor) 50000gp
@@ -26,12 +24,8 @@ On the walls there are paintings.
 - 1 x [Shield of Missile Attraction](https://www.dndbeyond.com/magic-items/shield-of-missile-attraction) 5000gp
 - 1 x [Powered Armor](https://www.dndbeyond.com/magic-items/powered-armor) 150000gp
 
-
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Saint_Bees.8574.md)
-
+- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
 
 ## Event Log
-
-

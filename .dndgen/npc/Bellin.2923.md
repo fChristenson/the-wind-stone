@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Average
 
-
 ## Personality
 
 - Understanding
@@ -23,17 +22,12 @@
 - Independent
 - Amiable
 
-
 ## Plot Hook
 
 - He is possessed by an evil spirit who makes him do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Npc's tavern: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.3397.md)
-
+- Npc's tavern: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.3397.md)
 
 ## Event Log
-
-

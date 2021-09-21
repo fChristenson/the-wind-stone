@@ -14,7 +14,6 @@
 - Eye Color: Tawny
 - Face: Kind
 
-
 ## Personality
 
 - Unceremonious
@@ -23,17 +22,12 @@
 - Precise
 - Dynamic
 
-
 ## Plot Hook
 
 - She is engaged in blood rituals
 
-
 ## Links
 
-- Npc's tavern: [The Clay Platters](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Clay_Platters.8764.md)
-
+- Npc's tavern: [The Clay Platters](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Clay_Platters.8764.md)
 
 ## Event Log
-
-

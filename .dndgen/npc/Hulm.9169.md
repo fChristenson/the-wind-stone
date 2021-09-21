@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Kind
 
-
 ## Personality
 
 - Sexy
@@ -23,17 +22,12 @@
 - Orderly
 - Profound
 
-
 ## Plot Hook
 
 - He is secretly poisoning the players on behalf of Smith
 
-
 ## Links
 
-- Often found at: [Lion and Lantern](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Lion_and_Lantern.2699.md)
-
+- Often found at: [Lion and Lantern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Lion_and_Lantern.2699.md)
 
 ## Event Log
-
-

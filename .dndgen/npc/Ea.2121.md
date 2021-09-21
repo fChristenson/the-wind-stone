@@ -14,7 +14,6 @@
 - Eye Color: Yellow
 - Face: Handsome
 
-
 ## Personality
 
 - Fair
@@ -23,17 +22,12 @@
 - Unconvincing
 - Stoic
 
-
 ## Plot Hook
 
 - She has recently woken up with a magical rune on the arm.
 
-
 ## Links
 
-- Npc's shop: [Ea's Shields & Armor](C:\Users\fredr\Documents\The Wind Stone\.dndgen\shop\Eas_Shields_and_Armor.2371.md)
-
+- Npc's shop: [Ea's Shields & Armor](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Eas_Shields_and_Armor.2371.md)
 
 ## Event Log
-
-

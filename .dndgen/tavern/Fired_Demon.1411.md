@@ -2,13 +2,11 @@
 
 ## Owner
 
-[Fang](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Fang.4188.md)
-
+[Fang](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Fang.4188.md)
 
 ## Rooms
 
 - 4 x small luxury rooms 4sp
-
 
 ## Menu
 
@@ -19,7 +17,6 @@
 - poor sausage 56cp
 - great rum 40cp
 
-
 ## Description
 
 The tavern is a normal wood building.
@@ -28,25 +25,20 @@ The building is in a poor state.
 The inside of the tavern is tidy.
 On the walls there are bookshelves.
 
-
 ## Patrons
 
-- [Enna Ilphelkiir (Gemblossom)](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Enna_Ilphelkiir_Gemblossom.1511.md)
-- [Perra Kimbatuul](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Perra_Kimbatuul.8275.md)
-- [Carric Galanodel (Moonwhisper)](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Carric_Galanodel_Moonwhisper.6174.md)
-- [Shump](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Shump.4882.md)
-- [Growler](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Growler.5137.md)
-- [Chrigrork](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Chrigrork.6319.md)
-- [Rotom](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Rotom.4514.md)
-- [Olga Chergoba](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Olga_Chergoba.1796.md)
-- [Valakhad](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Valakhad.6129.md)
-
+- [Enna Ilphelkiir (Gemblossom)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Enna_Ilphelkiir_Gemblossom.1511.md)
+- [Perra Kimbatuul](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Perra_Kimbatuul.8275.md)
+- [Carric Galanodel (Moonwhisper)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Carric_Galanodel_Moonwhisper.6174.md)
+- [Shump](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Shump.4882.md)
+- [Growler](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Growler.5137.md)
+- [Chrigrork](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Chrigrork.6319.md)
+- [Rotom](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rotom.4514.md)
+- [Olga Chergoba](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Olga_Chergoba.1796.md)
+- [Valakhad](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Valakhad.6129.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Rainhill.1881.md)
-
+- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
 
 ## Event Log
-
-

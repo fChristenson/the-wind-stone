@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Handsome
 
-
 ## Personality
 
 - Rational
@@ -23,17 +22,12 @@
 - Hostile
 - Unhealthy
 
-
 ## Plot Hook
 
 - She is the host of a terrible and deadly sickness.
 
-
 ## Links
 
-- Often found at: [Fired Demon](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Fired_Demon.1411.md)
-
+- Often found at: [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
 
 ## Event Log
-
-

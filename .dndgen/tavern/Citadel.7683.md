@@ -2,13 +2,11 @@
 
 ## Owner
 
-[Sik](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Sik.7517.md)
-
+[Sik](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sik.7517.md)
 
 ## Rooms
 
 - 1 x medium good rooms 24sp
-
 
 ## Menu
 
@@ -22,7 +20,6 @@
 - average cheese 24cp
 - great mead 3cp
 
-
 ## Description
 
 The tavern is a small stone building.
@@ -31,20 +28,15 @@ The building is in great state.
 The inside of the tavern is cozy.
 On the walls there are decorative weapons.
 
-
 ## Patrons
 
-- [Smasher](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Smasher.1174.md)
-- [Dent](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Dent.2949.md)
-- [Ini](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Ini.5531.md)
-- [Bajok Skin Flayer](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Bajok_Skin_Flayer.2358.md)
-
+- [Smasher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Smasher.1174.md)
+- [Dent](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Dent.2949.md)
+- [Ini](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ini.5531.md)
+- [Bajok Skin Flayer](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Bajok_Skin_Flayer.2358.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Rainhill.1881.md)
-
+- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
 
 ## Event Log
-
-

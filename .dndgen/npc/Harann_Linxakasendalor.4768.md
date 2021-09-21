@@ -14,7 +14,6 @@
 - Eye Color: Black
 - Face: Worn
 
-
 ## Personality
 
 - Insincere
@@ -23,17 +22,12 @@
 - Provocative
 - Monstrous
 
-
 ## Plot Hook
 
 - She is secretly hunting Kashak
 
-
 ## Links
 
-- Npc's tavern: [The Creative Marquee](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Creative_Marquee.1182.md)
-
+- Npc's tavern: [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
 
 ## Event Log
-
-

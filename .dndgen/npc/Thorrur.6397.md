@@ -14,7 +14,6 @@
 - Eye Color: Green
 - Face: Pretty
 
-
 ## Personality
 
 - Incurious
@@ -23,17 +22,12 @@
 - Challenging
 - Leaderly
 
-
 ## Plot Hook
 
 - She is secretly poisoning the players on behalf of Ember
 
-
 ## Links
 
-- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Drift_On_Inn.6181.md)
-
+- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log
-
-

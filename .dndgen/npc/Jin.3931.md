@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Ugly
 
-
 ## Personality
 
 - Firm
@@ -23,17 +22,12 @@
 - Intolerant
 - Dynamic
 
-
 ## Plot Hook
 
 - She has a [Barrel](https://www.dndbeyond.com/equipment/barrel) that is very valuable.
 
-
 ## Links
 
-- Npc's tavern: [The Wanton Wench](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\The_Wanton_Wench.3352.md)
-
+- Npc's tavern: [The Wanton Wench](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wanton_Wench.3352.md)
 
 ## Event Log
-
-

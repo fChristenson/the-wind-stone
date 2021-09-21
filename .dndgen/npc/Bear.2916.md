@@ -14,7 +14,6 @@
 - Eye Color: Amber
 - Face: Pretty
 
-
 ## Personality
 
 - Punctual
@@ -23,17 +22,12 @@
 - Lyrical
 - Idealistic
 
-
 ## Plot Hook
 
 - He is possessed by an evil spirit who makes him do horrible things at night, without remembering them.
 
-
 ## Links
 
-- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The Wind Stone\.dndgen\tavern\Drift_On_Inn.6181.md)
-
+- Often found at: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log
-
-

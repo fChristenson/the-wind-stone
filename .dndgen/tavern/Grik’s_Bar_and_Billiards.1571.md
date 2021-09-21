@@ -2,14 +2,12 @@
 
 ## Owner
 
-[Nalmith](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Nalmith.1741.md)
-
+[Nalmith](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nalmith.1741.md)
 
 ## Rooms
 
 - 5 x large poor rooms 12sp
 - 5 x medium luxury rooms 33sp
-
 
 ## Menu
 
@@ -21,7 +19,6 @@
 - great steak 9cp
 - poor rum 36cp
 
-
 ## Description
 
 The tavern is a large wood building.
@@ -30,19 +27,14 @@ The building is in a poor state.
 The inside of the tavern is dirty.
 On the walls there are decorative weapons.
 
-
 ## Patrons
 
-- [Sonaalo](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Sonaalo.4898.md)
-- [Phelaia](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Phelaia.8727.md)
-- [Zeed](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Zeed.5725.md)
-
+- [Sonaalo](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sonaalo.4898.md)
+- [Phelaia](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Phelaia.8727.md)
+- [Zeed](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Zeed.5725.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Braunton.4354.md)
-
+- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
 
 ## Event Log
-
-
