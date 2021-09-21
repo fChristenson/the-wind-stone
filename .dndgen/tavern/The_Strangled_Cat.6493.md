@@ -1,0 +1,57 @@
+# The Strangled Cat
+
+## Owner
+
+[Reed Tosscobble](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Reed_Tosscobble.5431.md)
+
+
+## Rooms
+
+- 5 x small luxury rooms 54sp
+- 3 x medium poor rooms 18sp
+- 5 x small poor rooms 60sp
+
+
+## Menu
+
+- great spirits 30cp
+- great steak 48cp
+- average wine 48cp
+- great rum 32cp
+- poor sausage 16cp
+- poor salad 18cp
+- poor mead 32cp
+- poor porrige 45cp
+- average bread 30cp
+
+
+## Description
+
+The tavern is a normal wood building.
+The building has two stories and clear glass windows.
+The building is in great state.
+The inside of the tavern is clean.
+On the walls there are decorative weapons.
+
+
+## Patrons
+
+- [Shamil Raulnor](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Shamil_Raulnor.1719.md)
+- [Shuja](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Shuja.5152.md)
+- [Urzul Doom Hammer](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Urzul_Doom_Hammer.1138.md)
+- [Nebun](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Nebun.5692.md)
+- [Shuja](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Shuja.3636.md)
+- [Kara Kung](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Kara_Kung.2491.md)
+- [Lerissa](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Lerissa.9311.md)
+- [Nemeia](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Nemeia.2761.md)
+- [Zasheida Marivaldi](C:\Users\fredr\Documents\The Wind Stone\.dndgen\npc\Zasheida_Marivaldi.7132.md)
+
+
+## Links
+
+- Found in: [Corrandulla](C:\Users\fredr\Documents\The Wind Stone\.dndgen\town\Corrandulla.2131.md)
+
+
+## Event Log
+
+
