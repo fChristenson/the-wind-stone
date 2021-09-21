@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Axehandle Ale](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Axehandle_Ale.5811.md)
+- Often found at: [Axehandle Ale](..\tavern\Axehandle_Ale.5811.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Lion and Lantern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Lion_and_Lantern.2699.md)
+- Often found at: [Lion and Lantern](..\tavern\Lion_and_Lantern.2699.md)
 
 ## Event Log

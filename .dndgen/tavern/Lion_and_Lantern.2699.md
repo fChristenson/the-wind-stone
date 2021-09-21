@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Katernin Ankhalab](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Katernin_Ankhalab.1836.md)
+[Katernin Ankhalab](..\npc\Katernin_Ankhalab.1836.md)
 
 ## Rooms
 
@@ -27,10 +27,10 @@ On the walls there are paintings.
 
 ## Patrons
 
-- [Hulm](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Hulm.9169.md)
+- [Hulm](..\npc\Hulm.9169.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

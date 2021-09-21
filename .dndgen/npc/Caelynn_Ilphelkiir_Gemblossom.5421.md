@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Fox Hole](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Fox_Hole.8188.md)
+- Npc's tavern: [The Fox Hole](..\tavern\The_Fox_Hole.8188.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Fat Jack's Blues & Grub](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fat_Jacks_Blues_and_Grub.5183.md)
+- Npc's tavern: [Fat Jack's Blues & Grub](..\tavern\Fat_Jacks_Blues_and_Grub.5183.md)
 
 ## Event Log

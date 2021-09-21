@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Left-Handed Hummingbird's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Left-Handed_Hummingbirds_Wands_and_Rods.1298.md)
+- Npc's shop: [Left-Handed Hummingbird's Wands and Rods](..\shop\Left-Handed_Hummingbirds_Wands_and_Rods.1298.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [The Victorious Egret](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Victorious_Egret.9953.md)
+- Often found at: [The Victorious Egret](..\tavern\The_Victorious_Egret.9953.md)
 
 ## Event Log

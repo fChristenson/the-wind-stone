@@ -22,19 +22,19 @@ Crux Easton is ruled by the church of {name}.
 
 ## Taverns
 
-- [The Boar's Chase](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boars_Chase.6165.md)
-- [The Black Barnacle](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Black_Barnacle.9546.md)
-- [The Phoenix's Beak](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Phoenixs_Beak.1193.md)
-- [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.3397.md)
-- [The Cup and Mug](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Cup_and_Mug.6863.md)
-- [Axehandle Ale](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Axehandle_Ale.5811.md)
-- [Icarus Descending](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Icarus_Descending.6666.md)
-- [The Victorious Egret](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Victorious_Egret.9953.md)
-- [The Clay Platters](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Clay_Platters.8764.md)
+- [The Boar's Chase](..\tavern\The_Boars_Chase.6165.md)
+- [The Black Barnacle](..\tavern\The_Black_Barnacle.9546.md)
+- [The Phoenix's Beak](..\tavern\The_Phoenixs_Beak.1193.md)
+- [The Rich Peasant Inn and Tavern](..\tavern\The_Rich_Peasant_Inn_and_Tavern.3397.md)
+- [The Cup and Mug](..\tavern\The_Cup_and_Mug.6863.md)
+- [Axehandle Ale](..\tavern\Axehandle_Ale.5811.md)
+- [Icarus Descending](..\tavern\Icarus_Descending.6666.md)
+- [The Victorious Egret](..\tavern\The_Victorious_Egret.9953.md)
+- [The Clay Platters](..\tavern\The_Clay_Platters.8764.md)
 
 ## Shops
 
-- [Koratana's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Koratanas_Wands_and_Rods.2785.md)
+- [Koratana's Wands and Rods](..\shop\Koratanas_Wands_and_Rods.2785.md)
 
 ## Secrets
 
@@ -52,13 +52,13 @@ Crux Easton is ruled by the church of {name}.
 
 ## Citizens
 
-- [Thotham Thunukalathi](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Thotham_Thunukalathi.8353.md)
-- [Marta Lackman](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Marta_Lackman.3149.md)
-- [Iados](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Iados.3897.md)
-- [Rotom](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rotom.3581.md)
-- [Kleeck](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Kleeck.4939.md)
-- [Prezhlek](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Prezhlek.5152.md)
-- [Kashak](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Kashak.1661.md)
+- [Thotham Thunukalathi](..\npc\Thotham_Thunukalathi.8353.md)
+- [Marta Lackman](..\npc\Marta_Lackman.3149.md)
+- [Iados](..\npc\Iados.3897.md)
+- [Rotom](..\npc\Rotom.3581.md)
+- [Kleeck](..\npc\Kleeck.4939.md)
+- [Prezhlek](..\npc\Prezhlek.5152.md)
+- [Kashak](..\npc\Kashak.1661.md)
 
 ## Links
 

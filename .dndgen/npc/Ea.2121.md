@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Ea's Shields & Armor](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Eas_Shields_and_Armor.2371.md)
+- Npc's shop: [Ea's Shields & Armor](..\shop\Eas_Shields_and_Armor.2371.md)
 
 ## Event Log

@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Reed Tosscobble](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Reed_Tosscobble.5431.md)
+[Reed Tosscobble](..\npc\Reed_Tosscobble.5431.md)
 
 ## Rooms
 
@@ -32,18 +32,18 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Shamil Raulnor](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Shamil_Raulnor.1719.md)
-- [Shuja](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Shuja.5152.md)
-- [Urzul Doom Hammer](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Urzul_Doom_Hammer.1138.md)
-- [Nebun](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nebun.5692.md)
-- [Shuja](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Shuja.3636.md)
-- [Kara Kung](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Kara_Kung.2491.md)
-- [Lerissa](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lerissa.9311.md)
-- [Nemeia](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nemeia.2761.md)
-- [Zasheida Marivaldi](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Zasheida_Marivaldi.7132.md)
+- [Shamil Raulnor](..\npc\Shamil_Raulnor.1719.md)
+- [Shuja](..\npc\Shuja.5152.md)
+- [Urzul Doom Hammer](..\npc\Urzul_Doom_Hammer.1138.md)
+- [Nebun](..\npc\Nebun.5692.md)
+- [Shuja](..\npc\Shuja.3636.md)
+- [Kara Kung](..\npc\Kara_Kung.2491.md)
+- [Lerissa](..\npc\Lerissa.9311.md)
+- [Nemeia](..\npc\Nemeia.2761.md)
+- [Zasheida Marivaldi](..\npc\Zasheida_Marivaldi.7132.md)
 
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
+- Found in: [Corrandulla](..\town\Corrandulla.2131.md)
 
 ## Event Log

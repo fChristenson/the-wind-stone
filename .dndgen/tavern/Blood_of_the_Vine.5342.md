@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Tes](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Tes.6177.md)
+[Tes](..\npc\Tes.6177.md)
 
 ## Rooms
 
@@ -32,10 +32,10 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Wellby High - hill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Wellby_High_-_hill.8281.md)
+- [Wellby High - hill](..\npc\Wellby_High_-_hill.8281.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

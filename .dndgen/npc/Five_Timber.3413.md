@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Queens Head](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Queens_Head.1769.md)
+- Often found at: [Queens Head](..\tavern\Queens_Head.1769.md)
 
 ## Event Log

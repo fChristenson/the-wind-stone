@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Sik](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sik.7517.md)
+[Sik](..\npc\Sik.7517.md)
 
 ## Rooms
 
@@ -30,13 +30,13 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Smasher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Smasher.1174.md)
-- [Dent](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Dent.2949.md)
-- [Ini](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ini.5531.md)
-- [Bajok Skin Flayer](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Bajok_Skin_Flayer.2358.md)
+- [Smasher](..\npc\Smasher.1174.md)
+- [Dent](..\npc\Dent.2949.md)
+- [Ini](..\npc\Ini.5531.md)
+- [Bajok Skin Flayer](..\npc\Bajok_Skin_Flayer.2358.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

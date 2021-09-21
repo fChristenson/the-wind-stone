@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Happy Orc](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Happy_Orc.7559.md)
+- Npc's tavern: [Happy Orc](..\tavern\Happy_Orc.7559.md)
 
 ## Event Log

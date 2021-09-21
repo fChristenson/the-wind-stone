@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Caelynn Ilphelkiir (Gemblossom)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Caelynn_Ilphelkiir_Gemblossom.5421.md)
+[Caelynn Ilphelkiir (Gemblossom)](..\npc\Caelynn_Ilphelkiir_Gemblossom.5421.md)
 
 ## Rooms
 
@@ -27,16 +27,16 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Smith](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Smith.1151.md)
-- [Ellyjobell Scheppen](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ellyjobell_Scheppen.4551.md)
-- [Trags](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Trags.1656.md)
-- [Five Timber](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Five_Timber.1665.md)
-- [Queg](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Queg.6927.md)
-- [Eszines](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Eszines.9143.md)
-- [Barakas](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Barakas.7321.md)
+- [Smith](..\npc\Smith.1151.md)
+- [Ellyjobell Scheppen](..\npc\Ellyjobell_Scheppen.4551.md)
+- [Trags](..\npc\Trags.1656.md)
+- [Five Timber](..\npc\Five_Timber.1665.md)
+- [Queg](..\npc\Queg.6927.md)
+- [Eszines](..\npc\Eszines.9143.md)
+- [Barakas](..\npc\Barakas.7321.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

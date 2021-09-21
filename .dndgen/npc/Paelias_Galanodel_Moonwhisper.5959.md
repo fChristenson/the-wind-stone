@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Paelias Galanodel (Moonwhisper)'s Scrolls and Spells](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Paelias_Galanodel_Moonwhispers_Scrolls_and_Spells.7757.md)
+- Npc's shop: [Paelias Galanodel (Moonwhisper)'s Scrolls and Spells](..\shop\Paelias_Galanodel_Moonwhispers_Scrolls_and_Spells.7757.md)
 
 ## Event Log

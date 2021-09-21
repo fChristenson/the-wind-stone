@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
+- Often found at: [Fire Mountain Brewery](..\tavern\Fire_Mountain_Brewery.8715.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Cat's Weapons](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Cats_Weapons.9191.md)
+- Npc's shop: [Cat's Weapons](..\shop\Cats_Weapons.9191.md)
 
 ## Event Log

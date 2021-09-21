@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Nalmith](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nalmith.1741.md)
+[Nalmith](..\npc\Nalmith.1741.md)
 
 ## Rooms
 
@@ -29,12 +29,12 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Sonaalo](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sonaalo.4898.md)
-- [Phelaia](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Phelaia.8727.md)
-- [Zeed](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Zeed.5725.md)
+- [Sonaalo](..\npc\Sonaalo.4898.md)
+- [Phelaia](..\npc\Phelaia.8727.md)
+- [Zeed](..\npc\Zeed.5725.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

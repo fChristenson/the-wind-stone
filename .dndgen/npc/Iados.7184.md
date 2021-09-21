@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Iados's Goods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Iadoss_Goods.9951.md)
+- Npc's shop: [Iados's Goods](..\shop\Iadoss_Goods.9951.md)
 
 ## Event Log

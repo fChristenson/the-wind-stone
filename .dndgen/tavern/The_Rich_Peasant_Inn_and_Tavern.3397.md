@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Bellin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Bellin.2923.md)
+[Bellin](..\npc\Bellin.2923.md)
 
 ## Rooms
 
@@ -29,11 +29,11 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Sindri Timbers](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sindri_Timbers.1513.md)
-- [Vola Bone Crusher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vola_Bone_Crusher.9628.md)
+- [Sindri Timbers](..\npc\Sindri_Timbers.1513.md)
+- [Vola Bone Crusher](..\npc\Vola_Bone_Crusher.9628.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

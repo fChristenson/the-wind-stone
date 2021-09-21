@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Thamior Meliamne (Oakenheel)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Thamior_Meliamne_Oakenheel.4612.md)
+[Thamior Meliamne (Oakenheel)](..\npc\Thamior_Meliamne_Oakenheel.4612.md)
 
 ## Rooms
 
@@ -28,13 +28,13 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Amnon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Amnon.1183.md)
-- [Ouss](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ouss.7641.md)
-- [Yuldra Starag](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Yuldra_Starag.7851.md)
-- [Lyle Goodbarrel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lyle_Goodbarrel.2211.md)
+- [Amnon](..\npc\Amnon.1183.md)
+- [Ouss](..\npc\Ouss.7641.md)
+- [Yuldra Starag](..\npc\Yuldra_Starag.7851.md)
+- [Lyle Goodbarrel](..\npc\Lyle_Goodbarrel.2211.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

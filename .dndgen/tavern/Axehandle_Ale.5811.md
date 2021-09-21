@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Engong The Brutal](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Engong_The_Brutal.5363.md)
+[Engong The Brutal](..\npc\Engong_The_Brutal.5363.md)
 
 ## Rooms
 
@@ -26,12 +26,12 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Patrin Kepeshkmolik](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Patrin_Kepeshkmolik.9135.md)
-- [Vun](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vun.1121.md)
-- [Navarra Dumein](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Navarra_Dumein.4749.md)
+- [Patrin Kepeshkmolik](..\npc\Patrin_Kepeshkmolik.9135.md)
+- [Vun](..\npc\Vun.1121.md)
+- [Navarra Dumein](..\npc\Navarra_Dumein.4749.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

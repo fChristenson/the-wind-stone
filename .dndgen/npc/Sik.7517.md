@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Citadel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Citadel.7683.md)
+- Npc's tavern: [Citadel](..\tavern\Citadel.7683.md)
 
 ## Event Log

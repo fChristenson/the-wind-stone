@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Phoenix's Beak](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Phoenixs_Beak.1193.md)
+- Npc's tavern: [The Phoenix's Beak](..\tavern\The_Phoenixs_Beak.1193.md)
 
 ## Event Log

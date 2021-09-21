@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Citadel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Citadel.7683.md)
+- Often found at: [Citadel](..\tavern\Citadel.7683.md)
 
 ## Event Log

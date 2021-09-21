@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [The Wayfarer's Lay](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wayfarers_Lay.2621.md)
+- Often found at: [The Wayfarer's Lay](..\tavern\The_Wayfarers_Lay.2621.md)
 
 ## Event Log

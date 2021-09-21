@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.3397.md)
+- Npc's tavern: [The Rich Peasant Inn and Tavern](..\tavern\The_Rich_Peasant_Inn_and_Tavern.3397.md)
 
 ## Event Log

@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Quaf](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Quaf.9921.md)
+[Quaf](..\npc\Quaf.9921.md)
 
 ## Rooms
 
@@ -31,19 +31,19 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Lokvurz The Wrath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lokvurz_The_Wrath.9714.md)
-- [Gardain Strakeln](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Gardain_Strakeln.3317.md)
-- [Ilikan Ogolakanu](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ilikan_Ogolakanu.1172.md)
-- [Uadjit Yarjerit](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Uadjit_Yarjerit.8554.md)
-- [Basher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Basher.3953.md)
-- [Oleksi](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Oleksi.9252.md)
-- [Jin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Jin.5879.md)
-- [Belthyn Pumanath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Belthyn_Pumanath.8895.md)
-- [Smoking Mirror](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Smoking_Mirror.8721.md)
-- [Swift](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Swift.9711.md)
+- [Lokvurz The Wrath](..\npc\Lokvurz_The_Wrath.9714.md)
+- [Gardain Strakeln](..\npc\Gardain_Strakeln.3317.md)
+- [Ilikan Ogolakanu](..\npc\Ilikan_Ogolakanu.1172.md)
+- [Uadjit Yarjerit](..\npc\Uadjit_Yarjerit.8554.md)
+- [Basher](..\npc\Basher.3953.md)
+- [Oleksi](..\npc\Oleksi.9252.md)
+- [Jin](..\npc\Jin.5879.md)
+- [Belthyn Pumanath](..\npc\Belthyn_Pumanath.8895.md)
+- [Smoking Mirror](..\npc\Smoking_Mirror.8721.md)
+- [Swift](..\npc\Swift.9711.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

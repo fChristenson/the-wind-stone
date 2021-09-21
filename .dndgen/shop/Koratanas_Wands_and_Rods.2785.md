@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Koratana](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Koratana.3589.md)
+[Koratana](..\npc\Koratana.3589.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are decorative weapons.
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

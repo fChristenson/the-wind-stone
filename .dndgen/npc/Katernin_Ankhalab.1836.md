@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Lion and Lantern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Lion_and_Lantern.2699.md)
+- Npc's tavern: [Lion and Lantern](..\tavern\Lion_and_Lantern.2699.md)
 
 ## Event Log

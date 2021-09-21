@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Talash](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Talash.9218.md)
+[Talash](..\npc\Talash.9218.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are decorative weapons.
 
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
+- Found in: [Corrandulla](..\town\Corrandulla.2131.md)
 
 ## Event Log

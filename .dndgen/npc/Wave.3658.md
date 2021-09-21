@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Black Barnacle](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Black_Barnacle.9546.md)
+- Npc's tavern: [The Black Barnacle](..\tavern\The_Black_Barnacle.9546.md)
 
 ## Event Log

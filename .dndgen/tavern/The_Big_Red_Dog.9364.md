@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Lerissa](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lerissa.2748.md)
+[Lerissa](..\npc\Lerissa.2748.md)
 
 ## Rooms
 
@@ -30,10 +30,10 @@ On the walls there are paintings.
 
 ## Patrons
 
-- [Chrirdan](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Chrirdan.2316.md)
+- [Chrirdan](..\npc\Chrirdan.2316.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

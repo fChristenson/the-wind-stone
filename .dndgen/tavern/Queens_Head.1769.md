@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Brozhdar](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Brozhdar.5388.md)
+[Brozhdar](..\npc\Brozhdar.5388.md)
 
 ## Rooms
 
@@ -32,13 +32,13 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Mugrub Iron Tusk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Mugrub_Iron_Tusk.9962.md)
-- [Five Timber](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Five_Timber.3413.md)
-- [Gruvald](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Gruvald.6887.md)
-- [Uthal Thunukalathi](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Uthal_Thunukalathi.4673.md)
+- [Mugrub Iron Tusk](..\npc\Mugrub_Iron_Tusk.9962.md)
+- [Five Timber](..\npc\Five_Timber.3413.md)
+- [Gruvald](..\npc\Gruvald.6887.md)
+- [Uthal Thunukalathi](..\npc\Uthal_Thunukalathi.4673.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

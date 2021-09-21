@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Queens Head](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Queens_Head.1769.md)
+- Npc's tavern: [Queens Head](..\tavern\Queens_Head.1769.md)
 
 ## Event Log

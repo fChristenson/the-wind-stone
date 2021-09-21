@@ -22,20 +22,20 @@ Rainhill is ruled by the church of {name}.
 
 ## Taverns
 
-- [Lion and Lantern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Lion_and_Lantern.2699.md)
-- [Fire Mountain Brewery](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fire_Mountain_Brewery.8715.md)
-- [The Grimy Cauldron](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Grimy_Cauldron.5151.md)
-- [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
-- [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
-- [Citadel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Citadel.7683.md)
-- [The Playful Party Place](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Playful_Party_Place.8824.md)
-- [Queens Head](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Queens_Head.1769.md)
+- [Lion and Lantern](..\tavern\Lion_and_Lantern.2699.md)
+- [Fire Mountain Brewery](..\tavern\Fire_Mountain_Brewery.8715.md)
+- [The Grimy Cauldron](..\tavern\The_Grimy_Cauldron.5151.md)
+- [Fired Demon](..\tavern\Fired_Demon.1411.md)
+- [The Creative Marquee](..\tavern\The_Creative_Marquee.1182.md)
+- [Citadel](..\tavern\Citadel.7683.md)
+- [The Playful Party Place](..\tavern\The_Playful_Party_Place.8824.md)
+- [Queens Head](..\tavern\Queens_Head.1769.md)
 
 ## Shops
 
-- [Paelias Galanodel (Moonwhisper)'s Scrolls and Spells](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Paelias_Galanodel_Moonwhispers_Scrolls_and_Spells.7757.md)
-- [Left-Handed Hummingbird's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Left-Handed_Hummingbirds_Wands_and_Rods.1298.md)
-- [Kava Shestendeliath's Shields & Armor](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Kava_Shestendeliaths_Shields_and_Armor.5245.md)
+- [Paelias Galanodel (Moonwhisper)'s Scrolls and Spells](..\shop\Paelias_Galanodel_Moonwhispers_Scrolls_and_Spells.7757.md)
+- [Left-Handed Hummingbird's Wands and Rods](..\shop\Left-Handed_Hummingbirds_Wands_and_Rods.1298.md)
+- [Kava Shestendeliath's Shields & Armor](..\shop\Kava_Shestendeliaths_Shields_and_Armor.5245.md)
 
 ## Secrets
 
@@ -51,13 +51,13 @@ Rainhill is ruled by the church of {name}.
 
 ## Citizens
 
-- [Rain](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rain.2854.md)
-- [Carlin Garrick](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Carlin_Garrick.1685.md)
-- [Yasheira Falone](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Yasheira_Falone.6548.md)
-- [Teoshi](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Teoshi.1467.md)
-- [Jalana Windrivver](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Jalana_Windrivver.2295.md)
-- [Fyevarra Ankhalab](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Fyevarra_Ankhalab.5613.md)
-- [Zlovol](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Zlovol.6211.md)
+- [Rain](..\npc\Rain.2854.md)
+- [Carlin Garrick](..\npc\Carlin_Garrick.1685.md)
+- [Yasheira Falone](..\npc\Yasheira_Falone.6548.md)
+- [Teoshi](..\npc\Teoshi.1467.md)
+- [Jalana Windrivver](..\npc\Jalana_Windrivver.2295.md)
+- [Fyevarra Ankhalab](..\npc\Fyevarra_Ankhalab.5613.md)
+- [Zlovol](..\npc\Zlovol.6211.md)
 
 ## Links
 

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Fired Demon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Fired_Demon.1411.md)
+- Npc's tavern: [Fired Demon](..\tavern\Fired_Demon.1411.md)
 
 ## Event Log

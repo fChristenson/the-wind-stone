@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Harann Linxakasendalor](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Harann_Linxakasendalor.4768.md)
+[Harann Linxakasendalor](..\npc\Harann_Linxakasendalor.4768.md)
 
 ## Rooms
 
@@ -31,17 +31,17 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Jeal](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Jeal.5563.md)
-- [Ember](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ember.2318.md)
-- [Skirt of Snakes](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Skirt_of_Snakes.2992.md)
-- [Shepdogia](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Shepdogia.2766.md)
-- [Ghesh Verthisathurgiesh](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ghesh_Verthisathurgiesh.5434.md)
-- [Molavakri](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Molavakri.4941.md)
-- [Urzul Bone Crusher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Urzul_Bone_Crusher.5581.md)
-- [Riswynn Holderhek](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Riswynn_Holderhek.8193.md)
+- [Jeal](..\npc\Jeal.5563.md)
+- [Ember](..\npc\Ember.2318.md)
+- [Skirt of Snakes](..\npc\Skirt_of_Snakes.2992.md)
+- [Shepdogia](..\npc\Shepdogia.2766.md)
+- [Ghesh Verthisathurgiesh](..\npc\Ghesh_Verthisathurgiesh.5434.md)
+- [Molavakri](..\npc\Molavakri.4941.md)
+- [Urzul Bone Crusher](..\npc\Urzul_Bone_Crusher.5581.md)
+- [Riswynn Holderhek](..\npc\Riswynn_Holderhek.8193.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Birel Naïlo (Nightbreeze)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Birel_Naïlo_Nightbreeze.3695.md)
+[Birel Naïlo (Nightbreeze)](..\npc\Birel_Naïlo_Nightbreeze.3695.md)
 
 ## Rooms
 
@@ -28,15 +28,15 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Rieta](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rieta.7119.md)
-- [Thomkk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Thomkk.9951.md)
-- [Wural](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Wural.3837.md)
-- [Akra Daardendrian](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Akra_Daardendrian.3515.md)
-- [Hitotee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Hitotee.1191.md)
-- [Yaotal](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Yaotal.4532.md)
+- [Rieta](..\npc\Rieta.7119.md)
+- [Thomkk](..\npc\Thomkk.9951.md)
+- [Wural](..\npc\Wural.3837.md)
+- [Akra Daardendrian](..\npc\Akra_Daardendrian.3515.md)
+- [Hitotee](..\npc\Hitotee.1191.md)
+- [Yaotal](..\npc\Yaotal.4532.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Left-Handed Hummingbird](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Left-Handed_Hummingbird.1528.md)
+[Left-Handed Hummingbird](..\npc\Left-Handed_Hummingbird.1528.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are decorative weapons.
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

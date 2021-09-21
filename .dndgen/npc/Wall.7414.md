@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
+- Npc's tavern: [Drift On Inn](..\tavern\Drift_On_Inn.6181.md)
 
 ## Event Log

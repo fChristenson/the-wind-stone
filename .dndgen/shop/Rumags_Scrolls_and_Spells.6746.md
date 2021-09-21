@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Rumag](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rumag.9247.md)
+[Rumag](..\npc\Rumag.9247.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are bookshelves.
 
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
+- Found in: [Corrandulla](..\town\Corrandulla.2131.md)
 
 ## Event Log

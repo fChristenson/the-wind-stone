@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Wild Side](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wild_Side.3216.md)
+- Npc's tavern: [The Wild Side](..\tavern\The_Wild_Side.3216.md)
 
 ## Event Log

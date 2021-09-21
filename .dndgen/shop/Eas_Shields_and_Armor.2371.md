@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Ea](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ea.2121.md)
+[Ea](..\npc\Ea.2121.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are paintings.
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

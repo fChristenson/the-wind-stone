@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Boar and Spear](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boar_and_Spear.4213.md)
+- Npc's tavern: [The Boar and Spear](..\tavern\The_Boar_and_Spear.4213.md)
 
 ## Event Log

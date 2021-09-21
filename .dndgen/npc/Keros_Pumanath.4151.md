@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Victorious Egret](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Victorious_Egret.9953.md)
+- Npc's tavern: [The Victorious Egret](..\tavern\The_Victorious_Egret.9953.md)
 
 ## Event Log

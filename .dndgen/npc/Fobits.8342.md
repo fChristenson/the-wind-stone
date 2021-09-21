@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
+- Often found at: [The Rain Cloud](..\tavern\The_Rain_Cloud.2126.md)
 
 ## Event Log

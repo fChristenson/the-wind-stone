@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Koratana](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Koratana.1127.md)
+[Koratana](..\npc\Koratana.1127.md)
 
 ## Rooms
 
@@ -26,10 +26,10 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Rugilar](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rugilar.7327.md)
+- [Rugilar](..\npc\Rugilar.7327.md)
 
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
+- Found in: [Corrandulla](..\town\Corrandulla.2131.md)
 
 ## Event Log

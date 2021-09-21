@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Paelias Galanodel (Moonwhisper)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Paelias_Galanodel_Moonwhisper.5959.md)
+[Paelias Galanodel (Moonwhisper)](..\npc\Paelias_Galanodel_Moonwhisper.5959.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are bookshelves.
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

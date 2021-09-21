@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Skirt of Snakes](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Skirt_of_Snakes.7111.md)
+[Skirt of Snakes](..\npc\Skirt_of_Snakes.7111.md)
 
 ## Rooms
 
@@ -29,14 +29,14 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Loreka](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Loreka.9223.md)
-- [Nikya](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nikya.9751.md)
-- [Otleh](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Otleh.6118.md)
-- [Dath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Dath.3945.md)
-- [Yog](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Yog.9211.md)
+- [Loreka](..\npc\Loreka.9223.md)
+- [Nikya](..\npc\Nikya.9751.md)
+- [Otleh](..\npc\Otleh.6118.md)
+- [Dath](..\npc\Dath.3945.md)
+- [Yog](..\npc\Yog.9211.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

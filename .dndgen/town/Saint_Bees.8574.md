@@ -22,20 +22,20 @@ Saint Bees is ruled by king Vishara.
 
 ## Taverns
 
-- [Student's Hideaway](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Students_Hideaway.5255.md)
-- [The Fox Hole](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Fox_Hole.8188.md)
-- [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
-- [Drift On Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Drift_On_Inn.6181.md)
-- [Blood of the Vine](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Blood_of_the_Vine.5342.md)
-- [The Rich Peasant Inn and Tavern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
-- [The Big Red Dog](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Big_Red_Dog.9364.md)
+- [Student's Hideaway](..\tavern\Students_Hideaway.5255.md)
+- [The Fox Hole](..\tavern\The_Fox_Hole.8188.md)
+- [The Rain Cloud](..\tavern\The_Rain_Cloud.2126.md)
+- [Drift On Inn](..\tavern\Drift_On_Inn.6181.md)
+- [Blood of the Vine](..\tavern\Blood_of_the_Vine.5342.md)
+- [The Rich Peasant Inn and Tavern](..\tavern\The_Rich_Peasant_Inn_and_Tavern.6599.md)
+- [The Big Red Dog](..\tavern\The_Big_Red_Dog.9364.md)
 
 ## Shops
 
-- [Myev Skull Cleaver's Exotic Goods & Magic Items](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Myev_Skull_Cleavers_Exotic_Goods_and_Magic_Items.2132.md)
-- [Berov's Scrolls and Spells](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Berovs_Scrolls_and_Spells.1547.md)
-- [Ea's Shields & Armor](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Eas_Shields_and_Armor.2371.md)
-- [Dakka's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Dakkas_Wands_and_Rods.5513.md)
+- [Myev Skull Cleaver's Exotic Goods & Magic Items](..\shop\Myev_Skull_Cleavers_Exotic_Goods_and_Magic_Items.2132.md)
+- [Berov's Scrolls and Spells](..\shop\Berovs_Scrolls_and_Spells.1547.md)
+- [Ea's Shields & Armor](..\shop\Eas_Shields_and_Armor.2371.md)
+- [Dakka's Wands and Rods](..\shop\Dakkas_Wands_and_Rods.5513.md)
 
 ## Secrets
 
@@ -53,12 +53,12 @@ Saint Bees is ruled by king Vishara.
 
 ## Citizens
 
-- [Lyle Goodbarrel](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lyle_Goodbarrel.8114.md)
-- [Manneo Kolae - Gileana](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Manneo_Kolae_-_Gileana.2362.md)
-- [Leshanna Amakiir (Gemflower)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Leshanna_Amakiir_Gemflower.4126.md)
-- [Vishara](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vishara.8424.md)
-- [Sorashana](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sorashana.6774.md)
-- [Driz](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Driz.7417.md)
+- [Lyle Goodbarrel](..\npc\Lyle_Goodbarrel.8114.md)
+- [Manneo Kolae - Gileana](..\npc\Manneo_Kolae_-_Gileana.2362.md)
+- [Leshanna Amakiir (Gemflower)](..\npc\Leshanna_Amakiir_Gemflower.4126.md)
+- [Vishara](..\npc\Vishara.8424.md)
+- [Sorashana](..\npc\Sorashana.6774.md)
+- [Driz](..\npc\Driz.7417.md)
 
 ## Links
 

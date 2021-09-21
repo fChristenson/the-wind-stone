@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Rain Cloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Rain_Cloud.2126.md)
+- Npc's tavern: [The Rain Cloud](..\tavern\The_Rain_Cloud.2126.md)
 
 ## Event Log

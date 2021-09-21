@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Dakka](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Dakka.4938.md)
+[Dakka](..\npc\Dakka.4938.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are decorative weapons.
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

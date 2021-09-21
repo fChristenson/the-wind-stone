@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Yog](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Yog.9311.md)
+[Yog](..\npc\Yog.9311.md)
 
 ## Rooms
 
@@ -30,17 +30,17 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Onyx](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Onyx.4171.md)
-- [Jasmal Nathandem](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Jasmal_Nathandem.3913.md)
-- [Nebun](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nebun.2437.md)
-- [Marta Ulmokina](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Marta_Ulmokina.8515.md)
-- [Sarovnek](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sarovnek.6242.md)
-- [Ilromov](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ilromov.4384.md)
-- [Zolis Marsk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Zolis_Marsk.9339.md)
-- [Fobits](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Fobits.1572.md)
+- [Onyx](..\npc\Onyx.4171.md)
+- [Jasmal Nathandem](..\npc\Jasmal_Nathandem.3913.md)
+- [Nebun](..\npc\Nebun.2437.md)
+- [Marta Ulmokina](..\npc\Marta_Ulmokina.8515.md)
+- [Sarovnek](..\npc\Sarovnek.6242.md)
+- [Ilromov](..\npc\Ilromov.4384.md)
+- [Zolis Marsk](..\npc\Zolis_Marsk.9339.md)
+- [Fobits](..\npc\Fobits.1572.md)
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Galinndan Holimion (Diamonddew)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Galinndan_Holimion_Diamonddew.2251.md)
+[Galinndan Holimion (Diamonddew)](..\npc\Galinndan_Holimion_Diamonddew.2251.md)
 
 ## Rooms
 
@@ -31,13 +31,13 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Neega Death Spear](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Neega_Death_Spear.2651.md)
-- [Nemeia](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nemeia.2685.md)
-- [Sutha](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sutha.9265.md)
-- [Irij](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Irij.8845.md)
+- [Neega Death Spear](..\npc\Neega_Death_Spear.2651.md)
+- [Nemeia](..\npc\Nemeia.2685.md)
+- [Sutha](..\npc\Sutha.9265.md)
+- [Irij](..\npc\Irij.8845.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Blood of the Vine](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Blood_of_the_Vine.5342.md)
+- Often found at: [Blood of the Vine](..\tavern\Blood_of_the_Vine.5342.md)
 
 ## Event Log

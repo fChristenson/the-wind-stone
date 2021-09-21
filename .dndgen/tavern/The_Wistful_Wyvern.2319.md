@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Deekek](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Deekek.5873.md)
+[Deekek](..\npc\Deekek.5873.md)
 
 ## Rooms
 
@@ -28,12 +28,12 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Janilias](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Janilias.8841.md)
-- [Slyra](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Slyra.6124.md)
-- [Molavakri](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Molavakri.6281.md)
+- [Janilias](..\npc\Janilias.8841.md)
+- [Slyra](..\npc\Slyra.6124.md)
+- [Molavakri](..\npc\Molavakri.6281.md)
 
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
+- Found in: [Corrandulla](..\town\Corrandulla.2131.md)
 
 ## Event Log

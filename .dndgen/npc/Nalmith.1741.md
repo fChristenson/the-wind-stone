@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Grik’s Bar and Billiards](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Grik’s_Bar_and_Billiards.1571.md)
+- Npc's tavern: [Grik’s Bar and Billiards](..\tavern\Grik’s_Bar_and_Billiards.1571.md)
 
 ## Event Log

@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Berov](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Berov.3215.md)
+[Berov](..\npc\Berov.3215.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are paintings.
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

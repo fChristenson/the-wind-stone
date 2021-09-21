@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Bronn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Bronn.8888.md)
+[Bronn](..\npc\Bronn.8888.md)
 
 ## Rooms
 
@@ -28,18 +28,18 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Toox](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Toox.9724.md)
-- [Lavinia Underbough](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lavinia_Underbough.4863.md)
-- [Kansif Spine Snapper](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Kansif_Spine_Snapper.6515.md)
-- [Mara Mostana](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Mara_Mostana.1167.md)
-- [Vun](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vun.3966.md)
-- [Megnalan](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Megnalan.1899.md)
-- [Natin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Natin.3964.md)
-- [Aera](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Aera.1247.md)
-- [Keros Vuuvaxath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Keros_Vuuvaxath.1431.md)
+- [Toox](..\npc\Toox.9724.md)
+- [Lavinia Underbough](..\npc\Lavinia_Underbough.4863.md)
+- [Kansif Spine Snapper](..\npc\Kansif_Spine_Snapper.6515.md)
+- [Mara Mostana](..\npc\Mara_Mostana.1167.md)
+- [Vun](..\npc\Vun.3966.md)
+- [Megnalan](..\npc\Megnalan.1899.md)
+- [Natin](..\npc\Natin.3964.md)
+- [Aera](..\npc\Aera.1247.md)
+- [Keros Vuuvaxath](..\npc\Keros_Vuuvaxath.1431.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

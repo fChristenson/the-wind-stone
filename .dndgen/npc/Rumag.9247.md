@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Rumag's Scrolls and Spells](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Rumags_Scrolls_and_Spells.6746.md)
+- Npc's shop: [Rumag's Scrolls and Spells](..\shop\Rumags_Scrolls_and_Spells.6746.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [The Cup and Mug](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Cup_and_Mug.6863.md)
+- Often found at: [The Cup and Mug](..\tavern\The_Cup_and_Mug.6863.md)
 
 ## Event Log

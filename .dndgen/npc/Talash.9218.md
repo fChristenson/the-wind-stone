@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Talash's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Talashs_Wands_and_Rods.1237.md)
+- Npc's shop: [Talash's Wands and Rods](..\shop\Talashs_Wands_and_Rods.1237.md)
 
 ## Event Log

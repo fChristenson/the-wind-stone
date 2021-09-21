@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Happy Orc](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Happy_Orc.7559.md)
+- Often found at: [Happy Orc](..\tavern\Happy_Orc.7559.md)
 
 ## Event Log

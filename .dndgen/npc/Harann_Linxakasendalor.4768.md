@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Creative Marquee](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Creative_Marquee.1182.md)
+- Npc's tavern: [The Creative Marquee](..\tavern\The_Creative_Marquee.1182.md)
 
 ## Event Log

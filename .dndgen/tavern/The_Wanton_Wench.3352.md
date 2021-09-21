@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Jin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Jin.3931.md)
+[Jin](..\npc\Jin.3931.md)
 
 ## Rooms
 
@@ -31,12 +31,12 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Balama Lao](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Balama_Lao.1184.md)
-- [Valakhad](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Valakhad.1718.md)
-- [Grutok Spine Snapper](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Grutok_Spine_Snapper.6344.md)
+- [Balama Lao](..\npc\Balama_Lao.1184.md)
+- [Valakhad](..\npc\Valakhad.1718.md)
+- [Grutok Spine Snapper](..\npc\Grutok_Spine_Snapper.6344.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

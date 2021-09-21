@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Wall](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Wall.7414.md)
+[Wall](..\npc\Wall.7414.md)
 
 ## Rooms
 
@@ -31,18 +31,18 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Thorrur](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Thorrur.6397.md)
-- [Mouser](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Mouser.1887.md)
-- [Cas](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Cas.5849.md)
-- [Dent](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Dent.8261.md)
-- [Jahrukk The Filthy](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Jahrukk_The_Filthy.4151.md)
-- [Rieta](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rieta.4283.md)
-- [Raisha](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Raisha.4118.md)
-- [Bear](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Bear.2916.md)
-- [Wolf](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Wolf.1614.md)
+- [Thorrur](..\npc\Thorrur.6397.md)
+- [Mouser](..\npc\Mouser.1887.md)
+- [Cas](..\npc\Cas.5849.md)
+- [Dent](..\npc\Dent.8261.md)
+- [Jahrukk The Filthy](..\npc\Jahrukk_The_Filthy.4151.md)
+- [Rieta](..\npc\Rieta.4283.md)
+- [Raisha](..\npc\Raisha.4118.md)
+- [Bear](..\npc\Bear.2916.md)
+- [Wolf](..\npc\Wolf.1614.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

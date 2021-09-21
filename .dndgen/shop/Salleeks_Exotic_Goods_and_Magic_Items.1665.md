@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Salleek](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Salleek.8923.md)
+[Salleek](..\npc\Salleek.8923.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are bookshelves.
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

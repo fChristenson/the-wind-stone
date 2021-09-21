@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [The Clay Platters](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Clay_Platters.8764.md)
+- Often found at: [The Clay Platters](..\tavern\The_Clay_Platters.8764.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Berov's Scrolls and Spells](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Berovs_Scrolls_and_Spells.1547.md)
+- Npc's shop: [Berov's Scrolls and Spells](..\shop\Berovs_Scrolls_and_Spells.1547.md)
 
 ## Event Log

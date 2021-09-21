@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Mugrub Flesh Ripper](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Mugrub_Flesh_Ripper.1221.md)
+[Mugrub Flesh Ripper](..\npc\Mugrub_Flesh_Ripper.1221.md)
 
 ## Rooms
 
@@ -32,18 +32,18 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Shugog Doom Hammer](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Shugog_Doom_Hammer.1548.md)
-- [Uthal Ogolakanu](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Uthal_Ogolakanu.4491.md)
-- [Nevitash](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Nevitash.8364.md)
-- [Emen](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Emen.9311.md)
-- [Lomar](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lomar.7558.md)
-- [Coratash](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Coratash.4138.md)
-- [Eztli](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Eztli.3837.md)
-- [Pethani Katho - Olavi](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Pethani_Katho_-_Olavi.1966.md)
-- [Yog](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Yog.9712.md)
+- [Shugog Doom Hammer](..\npc\Shugog_Doom_Hammer.1548.md)
+- [Uthal Ogolakanu](..\npc\Uthal_Ogolakanu.4491.md)
+- [Nevitash](..\npc\Nevitash.8364.md)
+- [Emen](..\npc\Emen.9311.md)
+- [Lomar](..\npc\Lomar.7558.md)
+- [Coratash](..\npc\Coratash.4138.md)
+- [Eztli](..\npc\Eztli.3837.md)
+- [Pethani Katho - Olavi](..\npc\Pethani_Katho_-_Olavi.1966.md)
+- [Yog](..\npc\Yog.9712.md)
 
 ## Links
 
-- Found in: [Saint Bees](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Saint_Bees.8574.md)
+- Found in: [Saint Bees](..\town\Saint_Bees.8574.md)
 
 ## Event Log

@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Veska](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Veska.1718.md)
+[Veska](..\npc\Veska.1718.md)
 
 ## Rooms
 
@@ -28,15 +28,15 @@ On the walls there are paintings.
 
 ## Patrons
 
-- [Jeal](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Jeal.7168.md)
-- [Vola Doom Hammer](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vola_Doom_Hammer.3754.md)
-- [Zrovozy](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Zrovozy.8131.md)
-- [Belthyn Pumanath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Belthyn_Pumanath.8481.md)
-- [Quierk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Quierk.1891.md)
-- [Queg](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Queg.8151.md)
+- [Jeal](..\npc\Jeal.7168.md)
+- [Vola Doom Hammer](..\npc\Vola_Doom_Hammer.3754.md)
+- [Zrovozy](..\npc\Zrovozy.8131.md)
+- [Belthyn Pumanath](..\npc\Belthyn_Pumanath.8481.md)
+- [Quierk](..\npc\Quierk.1891.md)
+- [Queg](..\npc\Queg.8151.md)
 
 ## Links
 
-- Found in: [Corrandulla](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Corrandulla.2131.md)
+- Found in: [Corrandulla](..\town\Corrandulla.2131.md)
 
 ## Event Log

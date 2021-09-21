@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Dakka's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Dakkas_Wands_and_Rods.5513.md)
+- Npc's shop: [Dakka's Wands and Rods](..\shop\Dakkas_Wands_and_Rods.5513.md)
 
 ## Event Log

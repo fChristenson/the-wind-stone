@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Quarion Meliamne (Oakenheel)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Quarion_Meliamne_Oakenheel.8138.md)
+[Quarion Meliamne (Oakenheel)](..\npc\Quarion_Meliamne_Oakenheel.8138.md)
 
 ## Rooms
 
@@ -32,17 +32,17 @@ On the walls there are paintings.
 
 ## Patrons
 
-- [Vasool](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vasool.4521.md)
-- [Althaea Galanodel (Moonwhisper)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Althaea_Galanodel_Moonwhisper.7598.md)
-- [Vola Bone Crusher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vola_Bone_Crusher.6699.md)
-- [Stromvo](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Stromvo.4541.md)
-- [Zauh](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Zauh.4456.md)
-- [Basher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Basher.4622.md)
-- [Shylk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Shylk.2962.md)
-- [Smith](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Smith.6959.md)
+- [Vasool](..\npc\Vasool.4521.md)
+- [Althaea Galanodel (Moonwhisper)](..\npc\Althaea_Galanodel_Moonwhisper.7598.md)
+- [Vola Bone Crusher](..\npc\Vola_Bone_Crusher.6699.md)
+- [Stromvo](..\npc\Stromvo.4541.md)
+- [Zauh](..\npc\Zauh.4456.md)
+- [Basher](..\npc\Basher.4622.md)
+- [Shylk](..\npc\Shylk.2962.md)
+- [Smith](..\npc\Smith.6959.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

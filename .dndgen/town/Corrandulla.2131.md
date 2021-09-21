@@ -22,16 +22,16 @@ Corrandulla is ruled by baron {name}.
 
 ## Taverns
 
-- [The Step Right Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Step_Right_Inn.4757.md)
-- [The Strangled Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Strangled_Cat.6493.md)
-- [Wobbling Goblin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Wobbling_Goblin.2931.md)
-- [The Wayfarer's Lay](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wayfarers_Lay.2621.md)
-- [The Wistful Wyvern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wistful_Wyvern.2319.md)
+- [The Step Right Inn](..\tavern\The_Step_Right_Inn.4757.md)
+- [The Strangled Cat](..\tavern\The_Strangled_Cat.6493.md)
+- [Wobbling Goblin](..\tavern\Wobbling_Goblin.2931.md)
+- [The Wayfarer's Lay](..\tavern\The_Wayfarers_Lay.2621.md)
+- [The Wistful Wyvern](..\tavern\The_Wistful_Wyvern.2319.md)
 
 ## Shops
 
-- [Talash's Wands and Rods](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Talashs_Wands_and_Rods.1237.md)
-- [Rumag's Scrolls and Spells](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Rumags_Scrolls_and_Spells.6746.md)
+- [Talash's Wands and Rods](..\shop\Talashs_Wands_and_Rods.1237.md)
+- [Rumag's Scrolls and Spells](..\shop\Rumags_Scrolls_and_Spells.6746.md)
 
 ## Secrets
 
@@ -47,9 +47,9 @@ Corrandulla is ruled by baron {name}.
 
 ## Citizens
 
-- [Raisya](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Raisya.5165.md)
-- [Kansif Skull Cleaver](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Kansif_Skull_Cleaver.5676.md)
-- [Manuya](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Manuya.1235.md)
+- [Raisya](..\npc\Raisya.5165.md)
+- [Kansif Skull Cleaver](..\npc\Kansif_Skull_Cleaver.5676.md)
+- [Manuya](..\npc\Manuya.1235.md)
 
 ## Links
 

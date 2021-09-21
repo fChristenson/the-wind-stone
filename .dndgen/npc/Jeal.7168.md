@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Wobbling Goblin](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Wobbling_Goblin.2931.md)
+- Often found at: [Wobbling Goblin](..\tavern\Wobbling_Goblin.2931.md)
 
 ## Event Log

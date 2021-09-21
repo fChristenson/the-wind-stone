@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Keros Pumanath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Keros_Pumanath.4151.md)
+[Keros Pumanath](..\npc\Keros_Pumanath.4151.md)
 
 ## Rooms
 
@@ -27,10 +27,10 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Dagnal Loderr](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Dagnal_Loderr.5869.md)
+- [Dagnal Loderr](..\npc\Dagnal_Loderr.5869.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

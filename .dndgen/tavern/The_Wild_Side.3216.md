@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Chrirdan](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Chrirdan.2657.md)
+[Chrirdan](..\npc\Chrirdan.2657.md)
 
 ## Rooms
 
@@ -31,15 +31,15 @@ On the walls there are bookshelves.
 
 ## Patrons
 
-- [Mirik (song)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Mirik_song.5576.md)
-- [Vesmova](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vesmova.6215.md)
-- [Seven Thundercloud](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Seven_Thundercloud.6413.md)
-- [Hulmarra Wan](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Hulmarra_Wan.9174.md)
-- [Ot](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ot.7994.md)
-- [Duthyn Vuuvaxath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Duthyn_Vuuvaxath.5993.md)
+- [Mirik (song)](..\npc\Mirik_song.5576.md)
+- [Vesmova](..\npc\Vesmova.6215.md)
+- [Seven Thundercloud](..\npc\Seven_Thundercloud.6413.md)
+- [Hulmarra Wan](..\npc\Hulmarra_Wan.9174.md)
+- [Ot](..\npc\Ot.7994.md)
+- [Duthyn Vuuvaxath](..\npc\Duthyn_Vuuvaxath.5993.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Wanton Wench](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wanton_Wench.3352.md)
+- Npc's tavern: [The Wanton Wench](..\tavern\The_Wanton_Wench.3352.md)
 
 ## Event Log

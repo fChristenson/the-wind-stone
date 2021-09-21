@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Axehandle Ale](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Axehandle_Ale.5811.md)
+- Npc's tavern: [Axehandle Ale](..\tavern\Axehandle_Ale.5811.md)
 
 ## Event Log

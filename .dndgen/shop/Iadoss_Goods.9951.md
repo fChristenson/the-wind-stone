@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Iados](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Iados.7184.md)
+[Iados](..\npc\Iados.7184.md)
 
 ## Description
 
@@ -25,6 +25,6 @@ On the walls there are paintings.
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

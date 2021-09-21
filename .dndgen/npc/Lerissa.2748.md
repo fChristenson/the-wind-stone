@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Big Red Dog](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Big_Red_Dog.9364.md)
+- Npc's tavern: [The Big Red Dog](..\tavern\The_Big_Red_Dog.9364.md)
 
 ## Event Log

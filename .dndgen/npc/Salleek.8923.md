@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's shop: [Salleek's Exotic Goods & Magic Items](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\shop\Salleeks_Exotic_Goods_and_Magic_Items.1665.md)
+- Npc's shop: [Salleek's Exotic Goods & Magic Items](..\shop\Salleeks_Exotic_Goods_and_Magic_Items.1665.md)
 
 ## Event Log

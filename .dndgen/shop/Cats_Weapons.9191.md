@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Cat](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Cat.2369.md)
+[Cat](..\npc\Cat.2369.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are bookshelves.
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log

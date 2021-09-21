@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Halakosh](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Halakosh.2622.md)
+[Halakosh](..\npc\Halakosh.2622.md)
 
 ## Rooms
 
@@ -29,13 +29,13 @@ On the walls there are paintings.
 
 ## Patrons
 
-- [Vutha (black)](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vutha_black.4117.md)
-- [Wolyn Pumanath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Wolyn_Pumanath.1115.md)
-- [Left-Handed Hummingbird](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Left-Handed_Hummingbird.7557.md)
-- [Thomkk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Thomkk.1972.md)
+- [Vutha (black)](..\npc\Vutha_black.4117.md)
+- [Wolyn Pumanath](..\npc\Wolyn_Pumanath.1115.md)
+- [Left-Handed Hummingbird](..\npc\Left-Handed_Hummingbird.7557.md)
+- [Thomkk](..\npc\Thomkk.1972.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

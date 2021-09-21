@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Wistful Wyvern](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Wistful_Wyvern.2319.md)
+- Npc's tavern: [The Wistful Wyvern](..\tavern\The_Wistful_Wyvern.2319.md)
 
 ## Event Log

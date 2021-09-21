@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [Icarus Descending](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Icarus_Descending.6666.md)
+- Npc's tavern: [Icarus Descending](..\tavern\Icarus_Descending.6666.md)
 
 ## Event Log

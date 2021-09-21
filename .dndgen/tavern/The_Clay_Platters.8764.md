@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Amafrey Dundragon](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Amafrey_Dundragon.5793.md)
+[Amafrey Dundragon](..\npc\Amafrey_Dundragon.5793.md)
 
 ## Rooms
 
@@ -32,16 +32,16 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Bear](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Bear.3613.md)
-- [Vimak Vaimei - Laga](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vimak_Vaimei_-_Laga.6748.md)
-- [Ember](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Ember.1294.md)
-- [Raisha](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Raisha.2149.md)
-- [Lyooda](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Lyooda.6415.md)
-- [Thomkk](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Thomkk.8941.md)
-- [Rhogar Norixius](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Rhogar_Norixius.3812.md)
+- [Bear](..\npc\Bear.3613.md)
+- [Vimak Vaimei - Laga](..\npc\Vimak_Vaimei_-_Laga.6748.md)
+- [Ember](..\npc\Ember.1294.md)
+- [Raisha](..\npc\Raisha.2149.md)
+- [Lyooda](..\npc\Lyooda.6415.md)
+- [Thomkk](..\npc\Thomkk.8941.md)
+- [Rhogar Norixius](..\npc\Rhogar_Norixius.3812.md)
 
 ## Links
 
-- Found in: [Crux Easton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Crux_Easton.6711.md)
+- Found in: [Crux Easton](..\town\Crux_Easton.6711.md)
 
 ## Event Log

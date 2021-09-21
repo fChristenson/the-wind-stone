@@ -28,6 +28,6 @@
 
 ## Links
 
-- Npc's tavern: [The Boar's Chase](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Boars_Chase.6165.md)
+- Npc's tavern: [The Boar's Chase](..\tavern\The_Boars_Chase.6165.md)
 
 ## Event Log

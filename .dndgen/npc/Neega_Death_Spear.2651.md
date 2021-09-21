@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Student's Hideaway](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Students_Hideaway.5255.md)
+- Often found at: [Student's Hideaway](..\tavern\Students_Hideaway.5255.md)
 
 ## Event Log

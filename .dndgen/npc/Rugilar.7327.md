@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [The Step Right Inn](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\The_Step_Right_Inn.4757.md)
+- Often found at: [The Step Right Inn](..\tavern\The_Step_Right_Inn.4757.md)
 
 ## Event Log

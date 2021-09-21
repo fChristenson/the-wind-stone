@@ -28,6 +28,6 @@
 
 ## Links
 
-- Often found at: [Icarus Descending](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\tavern\Icarus_Descending.6666.md)
+- Often found at: [Icarus Descending](..\tavern\Icarus_Descending.6666.md)
 
 ## Event Log

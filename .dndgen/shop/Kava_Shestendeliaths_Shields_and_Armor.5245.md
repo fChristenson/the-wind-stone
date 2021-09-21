@@ -6,7 +6,7 @@
 
 ## Owner
 
-[Kava Shestendeliath](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Kava_Shestendeliath.9342.md)
+[Kava Shestendeliath](..\npc\Kava_Shestendeliath.9342.md)
 
 ## Description
 
@@ -26,6 +26,6 @@ On the walls there are bookshelves.
 
 ## Links
 
-- Found in: [Rainhill](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Rainhill.1881.md)
+- Found in: [Rainhill](..\town\Rainhill.1881.md)
 
 ## Event Log

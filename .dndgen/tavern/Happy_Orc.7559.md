@@ -2,7 +2,7 @@
 
 ## Owner
 
-[Sutha](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Sutha.3132.md)
+[Sutha](..\npc\Sutha.3132.md)
 
 ## Rooms
 
@@ -27,10 +27,10 @@ On the walls there are decorative weapons.
 
 ## Patrons
 
-- [Vola Bone Crusher](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\npc\Vola_Bone_Crusher.9845.md)
+- [Vola Bone Crusher](..\npc\Vola_Bone_Crusher.9845.md)
 
 ## Links
 
-- Found in: [Braunton](C:\Users\fredr\Documents\The_Wind_Stone.dndgen\town\Braunton.4354.md)
+- Found in: [Braunton](..\town\Braunton.4354.md)
 
 ## Event Log
