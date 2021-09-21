@@ -12,7 +12,7 @@ Braunton is a large and it's population is about 5000
 
 ## Government
 
-Braunton is ruled by a warrior guild called {name}.
+Braunton is ruled by a warrior guild called The Wild Ones.
 
 ## Weather
 
