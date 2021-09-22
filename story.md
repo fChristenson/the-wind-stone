@@ -58,8 +58,8 @@ TODO: Create victim list and attack schedule
 - Manneo Kolae, also at large tree day after, time of death 20:00
 - Vutha, Braunton streets, 23:00
 - Valakhad, dead in her room, 06:00
-- Mas, dead at her house,
-- Chrirdan, dead just oustide Braunton in the woods
-- Ghesh Verthisathurgiesh, found dead with Chrirdan
-- Syrkart, dead in bed with Lidda Brushgather
-- Wave, dead in his tavern
+- Mas, dead at her house, 20:00 - 00:00
+- Chrirdan, dead just oustide Braunton in the woods, 20:00 - 00:00
+- Ghesh Verthisathurgiesh, found dead with Chrirdan, 20:00 - 00:00
+- Syrkart, dead in bed with Lidda Brushgather, 20:00 - 00:00
+- Wave, dead in his tavern, 20:00 - 00:00
