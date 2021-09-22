@@ -30,6 +30,7 @@
 - Bodies are found with cuts so clean that no blade could cause it
 - Killer is a changeling
 - Killer is killing in the shape of people known to the victim
+- Shimmers Bay land onwership is found either on the killers corpse or home
 
 ## Solutions
 
@@ -41,7 +42,7 @@
 ### Witness
 
 - Find witness who can testify to have seen changeling in the shape of a npc the party knows could not have done it
-- Witness gives clue to killers home where the windstone is found
+- Witness gives clue to killers home where the windstone is found 
 
 ## Killer locations
 
