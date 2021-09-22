@@ -53,12 +53,12 @@ TODO: Create victim list and attack schedule
 
 ## Kill order
 
-- Barakas, first to die in his room
+- Barakas, first to die in his room, likely killed by "the king", MO is not consistent
 - Lyle Goodbarrel, dies at large tree, killer MO is a perfect cut across the throat, time of death 00:00
 - Manneo Kolae, also at large tree day after, time of death 20:00
-- Vutha, Braunton streets
-- Valakhad, dead in her room
-- Mas, dead at her house
+- Vutha, Braunton streets, 23:00
+- Valakhad, dead in her room, 06:00
+- Mas, dead at her house,
 - Chrirdan, dead just oustide Braunton in the woods
 - Ghesh Verthisathurgiesh, found dead with Chrirdan
 - Syrkart, dead in bed with Lidda Brushgather
