@@ -1,3 +1,4 @@
+create npc --race Halfling --gender female
 get log
 create log group knows that murder victim is in Saint Bees storage unit
 create log group not on friendly terms with the "king"
@@ -27,4 +28,3 @@ battle b add pc tar
 battle b add pc rey
 battle b add pc colt
 get pc
-c
