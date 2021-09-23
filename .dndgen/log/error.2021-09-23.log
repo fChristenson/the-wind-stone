@@ -1,0 +1,48 @@
+9/23/2021, 6:13:16 PM Error - Invalid state! Expected file exists but got "file does not exist"!
+Error: Invalid state! Expected file exists but got "file does not exist"!
+    at new InvalidStateError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.findAlias [as default] (C:\snapshot\dndgen\packages\bin\dist\cli\alias\findAlias.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js
+    at C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js
+    at Interface.<anonymous> (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at Interface.emit (node:events:394:28)
+    at Interface._onLine (node:readline:487:10)
+    at Interface._line (node:readline:864:8)
+    at Interface._ttyWrite (node:readline:1216:14)
+9/23/2021, 6:13:19 PM Error - Invalid state! Expected file exists but got "file does not exist"!
+Error: Invalid state! Expected file exists but got "file does not exist"!
+    at new InvalidStateError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.findAlias [as default] (C:\snapshot\dndgen\packages\bin\dist\cli\alias\findAlias.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js
+    at C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js
+    at Interface.<anonymous> (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at Interface.emit (node:events:394:28)
+    at Interface._onLine (node:readline:487:10)
+    at Interface._line (node:readline:864:8)
+    at Interface._ttyWrite (node:readline:1216:14)
+9/23/2021, 6:13:47 PM Error - Invalid state! Expected section start index but got "no match on /^## Event log$/i"!
+Error: Invalid state! Expected section start index but got "no match on /^## Event log$/i"!
+    at new InvalidStateError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at parse (C:\snapshot\dndgen\packages\bin\dist\gen\parsing\utils.js)
+    at Function.parse (C:\snapshot\dndgen\packages\bin\dist\gen\resource\ResourceEventLog.js)
+    at C:\snapshot\dndgen\packages\bin\dist\gen\town\Town.js
+    at C:\snapshot\dndgen\packages\bin\dist\gen\resource\files.js
+    at Array.map (<anonymous>)
+    at Object.listAllResources (C:\snapshot\dndgen\packages\bin\dist\gen\resource\files.js)
+    at C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\get\getResource\utils.js
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at executeQuery (C:\snapshot\dndgen\packages\bin\dist\cli\get\get.js)
+9/23/2021, 6:15:05 PM TypeError - File URL path must be absolute
+TypeError [ERR_INVALID_FILE_URL_PATH]: File URL path must be absolute
+    at new NodeError (node:internal/errors:371:5)
+    at getPathFromURLWin32 (node:internal/url:1390:11)
+    at Object.fileURLToPath (node:internal/url:1420:22)
+    at Object.maybeFileUrlToPath (C:\snapshot\dndgen\packages\bin\dist\gen\utils\utils.js)
+    at getResourceFile (C:\snapshot\dndgen\packages\bin\dist\gen\resource\files.js)
+    at Function.parse (C:\snapshot\dndgen\packages\bin\dist\gen\npc\Owner.js)
+    at Shop.get (C:\snapshot\dndgen\packages\bin\dist\gen\shop\Shop.js)
+    at Shop.toMarkdown (C:\snapshot\dndgen\packages\bin\dist\gen\shop\Shop.js)
+    at Object.print (C:\snapshot\dndgen\packages\bin\dist\cli\print\print.js)
+    at executeQuery (C:\snapshot\dndgen\packages\bin\dist\cli\get\get.js)

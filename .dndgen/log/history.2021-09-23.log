@@ -1,0 +1,21 @@
+get pc
+c
+create pc --name rey
+create pc --name tar
+create pc --name colt
+get pc
+c
+1
+get shop p
+get shop
+get town
+c
+get battle b
+get battle
+c
+create alias c clear
+get alias
+c
+create battle
+clear
+create town
