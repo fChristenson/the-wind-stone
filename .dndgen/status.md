@@ -2,7 +2,7 @@
 
 ## In Game Time
 
-- 15:00
+- 19:00
 
 
 ## Weather

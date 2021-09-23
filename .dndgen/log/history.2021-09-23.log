@@ -1,3 +1,10 @@
+roll 1d4
+1d4
+create log group takes control of Saint Bees gang
+open npc 5877
+open 5877
+create npc --race Human --age 25 --gender female
+set status --time 19:00
 create npc --race Halfling --gender female
 get log
 create log group knows that murder victim is in Saint Bees storage unit
@@ -21,10 +28,3 @@ getpc
 get pd
 get battle
 battle b roll r g g
-battle b roll 1 1 1
-open battle b
-get battle b
-battle b add pc tar
-battle b add pc rey
-battle b add pc colt
-get pc
