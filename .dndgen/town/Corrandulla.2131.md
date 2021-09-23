@@ -12,7 +12,7 @@ Corrandulla is a large and it's population is about 5000
 
 ## Government
 
-Corrandulla is ruled by baron {name}.
+Corrandulla is ruled by baron Molavakri.
 
 ## Weather
 
