@@ -1,30 +1,30 @@
-set status --time 23:45
-roll 1d4
-1d4
-create log group takes control of Saint Bees gang
-open npc 5877
-open 5877
-create npc --race Human --age 25 --gender female
-set status --time 19:00
-create npc --race Halfling --gender female
-get log
-create log group knows that murder victim is in Saint Bees storage unit
-create log group not on friendly terms with the "king"
-create log group burns down tavern
-get status
-set status --time 15:00
-get status
-set status --time 15.00
-roll 1d4
-get status
-set status --time 10:00
-get status
-set status --time 10:00
-get pc
-create pc --name mei
-c
-create pc --name bre
-get pc
-getpc
-get pd
-get battle
+battle b next
+roll 1d20
+battle b damage tar 14
+roll 3d6
+roll 1d20
+battle b damage 463 11
+roll 1d20
+battle b damage 748 11
+roll 1d20
+battle b damage tar 15
+roll 3d6
+roll 1d20
+battle b damage 431 5
+roll 1d20
+battle b damage 431 8
+battle b damage 431 10
+battle b heal bre 23
+battle b log tar heals bre
+battle b next
+battle b damage tar 14
+roll 3d6
+roll 1d20
+battle b damage 463 10
+roll 1d20
+battle b damage bre 15
+roll 3d6
+roll 1d20
+battle b damage 748 5
+roll 1d20
+battle b damage bre 9

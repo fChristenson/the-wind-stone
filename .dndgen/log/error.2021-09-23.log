@@ -130,3 +130,51 @@ Error: Invalid argument! Expected command string but got "1d4"!
     at Interface._onLine (node:readline:487:10)
     at Interface._line (node:readline:864:8)
     at Interface._ttyWrite (node:readline:1216:14)
+9/23/2021, 11:02:51 PM Error - Invalid argument! Expected file found but got "bree not found"!
+Error: Invalid argument! Expected file found but got "bree not found"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.findResourceFile (C:\snapshot\dndgen\packages\bin\dist\gen\resource\files.js)
+    at Object.addPc [as default] (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\battle\add\addCombatant\addPc\addPc.js)
+    at addCombatant (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\battle\add\addCombatant\addCombatant.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at addPc (C:\snapshot\dndgen\packages\bin\dist\cli\battle\add.js)
+    at Object.add [as default] (C:\snapshot\dndgen\packages\bin\dist\cli\battle\add.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\battle\battleComand.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+9/23/2021, 11:03:01 PM Error - Invalid argument! Expected file found but got "bree not found"!
+Error: Invalid argument! Expected file found but got "bree not found"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.findResourceFile (C:\snapshot\dndgen\packages\bin\dist\gen\resource\files.js)
+    at Object.addPc [as default] (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\battle\add\addCombatant\addPc\addPc.js)
+    at addCombatant (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\battle\add\addCombatant\addCombatant.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at addPc (C:\snapshot\dndgen\packages\bin\dist\cli\battle\add.js)
+    at Object.add [as default] (C:\snapshot\dndgen\packages\bin\dist\cli\battle\add.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\battle\battleComand.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+9/23/2021, 11:19:26 PM Error - Invalid argument! Expected number as a string but got "r"!
+Error: Invalid argument! Expected number as a string but got "r"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.asNumber (C:\snapshot\dndgen\packages\bin\dist\gen\utils\utils.js)
+    at C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\battle\add\addCombatant\addMonster\addMonster.js
+    at Array.map (<anonymous>)
+    at Object.addMonsters [as default] (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\battle\add\addCombatant\addMonster\addMonster.js)
+    at addCombatant (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\battle\add\addCombatant\addCombatant.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at addMonster (C:\snapshot\dndgen\packages\bin\dist\cli\battle\add.js)
+    at Object.add [as default] (C:\snapshot\dndgen\packages\bin\dist\cli\battle\add.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\battle\battleComand.js
+9/23/2021, 11:20:25 PM Error - Invalid argument! Expected dice roll but got "1d20+10"!
+Error: Invalid argument! Expected dice roll but got "1d20+10"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.rollDice [as default] (C:\snapshot\dndgen\packages\bin\dist\gen\roll\roll.js)
+    at rollDiceCommandHandler (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\rollDice\rollDice.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js
+    at C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js
+    at Interface.<anonymous> (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at Interface.emit (node:events:394:28)
+    at Interface._onLine (node:readline:487:10)
