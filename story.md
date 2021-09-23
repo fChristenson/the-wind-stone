@@ -2,19 +2,19 @@
 
 ## Micro quests
 
-- Steal item from party member
+- Steal item from party member - mei
 - Find stolen party member item
 - Kill party member
-- Save party members life
+- Save party members life - rey
 - Start a rumor about party member
 - Plant murder evidence on party member
-- Kiss party member on the mouth
+- Kiss party member on the mouth - tar
 - Start a drunken fight and pull the rest of the party in to the fight
 - Get party arrested
 - Become known as the most generous party member
 - Perform heroic deed
 - Performa act of pure evil
-- Help the killer
+- Help the killer - colt
 
 ## Start
 

@@ -46,3 +46,27 @@ TypeError [ERR_INVALID_FILE_URL_PATH]: File URL path must be absolute
     at Shop.toMarkdown (C:\snapshot\dndgen\packages\bin\dist\gen\shop\Shop.js)
     at Object.print (C:\snapshot\dndgen\packages\bin\dist\cli\print\print.js)
     at executeQuery (C:\snapshot\dndgen\packages\bin\dist\cli\get\get.js)
+9/23/2021, 6:20:14 PM Error - Invalid argument! Expected GetCommand but got ""pd""!
+Error: Invalid argument! Expected GetCommand but got ""pd""!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.asGetCommand (C:\snapshot\dndgen\packages\bin\dist\gen\utils\utils.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\get\get.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js
+    at C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js
+    at Interface.<anonymous> (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at Interface.emit (node:events:394:28)
+    at Interface._onLine (node:readline:487:10)
+9/23/2021, 6:20:16 PM Error - Invalid argument! Expected command string but got "getpc"!
+Error: Invalid argument! Expected command string but got "getpc"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.findAlias [as default] (C:\snapshot\dndgen\packages\bin\dist\cli\alias\findAlias.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js
+    at C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js
+    at Interface.<anonymous> (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at Interface.emit (node:events:394:28)
+    at Interface._onLine (node:readline:487:10)
+    at Interface._line (node:readline:864:8)
+    at Interface._ttyWrite (node:readline:1216:14)

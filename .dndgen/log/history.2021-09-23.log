@@ -1,3 +1,10 @@
+get pc
+create pc --name mei
+c
+create pc --name bre
+get pc
+getpc
+get pd
 get battle
 battle b roll r g g
 battle b roll 1 1 1
@@ -21,9 +28,3 @@ c
 get battle b
 get battle
 c
-create alias c clear
-get alias
-c
-create battle
-clear
-create town
