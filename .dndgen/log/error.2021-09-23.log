@@ -70,3 +70,39 @@ Error: Invalid argument! Expected command string but got "getpc"!
     at Interface._onLine (node:readline:487:10)
     at Interface._line (node:readline:864:8)
     at Interface._ttyWrite (node:readline:1216:14)
+9/23/2021, 8:30:25 PM Error - ENOENT: no such file or directory, open 'C:\Users\fredr\Documents\The_Wind_Stone\.dndgen\status.md'
+Error: ENOENT: no such file or directory, open 'C:\Users\fredr\Documents\The_Wind_Stone\.dndgen\status.md'
+    at Object.openSync (node:fs:585:3)
+    at Object.openSync (pkg/prelude/bootstrap.js:696:32)
+    at Object.readFileSync (node:fs:453:35)
+    at Object.readFileSync (pkg/prelude/bootstrap.js:982:36)
+    at Object.readFile (C:\snapshot\dndgen\packages\bin\dist\gen\file\file.js)
+    at setStatus (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\set\setStatus\setStatus.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\set\set.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+9/23/2021, 9:19:57 PM Error - Invalid argument! Expected time but got "undefined"!
+Error: Invalid argument! Expected time but got "undefined"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at C:\snapshot\dndgen\packages\bin\dist\gen\time\InGameTime.js
+    at parse (C:\snapshot\dndgen\packages\bin\dist\gen\parsing\utils.js)
+    at Function.parse (C:\snapshot\dndgen\packages\bin\dist\gen\time\InGameTime.js)
+    at Function.parse (C:\snapshot\dndgen\packages\bin\dist\gen\status\Status.js)
+    at getStatus (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\get\getStatus\getStatus.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\get\get.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+9/23/2021, 9:20:06 PM Error - Invalid argument! Expected time but got "undefined"!
+Error: Invalid argument! Expected time but got "undefined"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at C:\snapshot\dndgen\packages\bin\dist\gen\time\InGameTime.js
+    at parse (C:\snapshot\dndgen\packages\bin\dist\gen\parsing\utils.js)
+    at Function.parse (C:\snapshot\dndgen\packages\bin\dist\gen\time\InGameTime.js)
+    at Function.parse (C:\snapshot\dndgen\packages\bin\dist\gen\status\Status.js)
+    at setStatus (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\set\setStatus\setStatus.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\set\set.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)

@@ -1,3 +1,16 @@
+get log
+create log group knows that murder victim is in Saint Bees storage unit
+create log group not on friendly terms with the "king"
+create log group burns down tavern
+get status
+set status --time 15:00
+get status
+set status --time 15.00
+roll 1d4
+get status
+set status --time 10:00
+get status
+set status --time 10:00
 get pc
 create pc --name mei
 c
@@ -14,17 +27,4 @@ battle b add pc tar
 battle b add pc rey
 battle b add pc colt
 get pc
-c
-create pc --name rey
-create pc --name tar
-create pc --name colt
-get pc
-c
-1
-get shop p
-get shop
-get town
-c
-get battle b
-get battle
 c
