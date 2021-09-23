@@ -1,3 +1,4 @@
+set status --time 23:45
 roll 1d4
 1d4
 create log group takes control of Saint Bees gang
@@ -27,4 +28,3 @@ get pc
 getpc
 get pd
 get battle
-battle b roll r g g
