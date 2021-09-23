@@ -1,3 +1,11 @@
+get battle
+battle b roll r g g
+battle b roll 1 1 1
+open battle b
+get battle b
+battle b add pc tar
+battle b add pc rey
+battle b add pc colt
 get pc
 c
 create pc --name rey
