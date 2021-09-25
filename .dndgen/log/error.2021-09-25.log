@@ -1,0 +1,36 @@
+9/25/2021, 8:04:20 PM Error - Invalid argument! Expected resource file but got "town destroyed does not exist"!
+Error: Invalid argument! Expected resource file but got "town destroyed does not exist"!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.addResourceLog (C:\snapshot\dndgen\packages\bin\dist\gen\log\resourceLogs.js)
+    at createDmLog (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\create\createDmLog\createDmLog.js)
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\create\create.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js
+    at C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js
+    at Interface.<anonymous> (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+9/25/2021, 8:04:36 PM Error - Invalid state! Expected section start index but got "no match on /^## Event log$/i"!
+Error: Invalid state! Expected section start index but got "no match on /^## Event log$/i"!
+    at new InvalidStateError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at parse (C:\snapshot\dndgen\packages\bin\dist\gen\parsing\utils.js)
+    at Function.parse (C:\snapshot\dndgen\packages\bin\dist\gen\resource\ResourceEventLog.js)
+    at C:\snapshot\dndgen\packages\bin\dist\gen\town\Town.js
+    at C:\snapshot\dndgen\packages\bin\dist\gen\resource\files.js
+    at Array.map (<anonymous>)
+    at Object.listAllResources (C:\snapshot\dndgen\packages\bin\dist\gen\resource\files.js)
+    at C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\commandHandlers\get\getResource\utils.js
+    at Dispatcher.dispatch (C:\snapshot\dndgen\packages\bin\dist\gen\dispatcher\Dispatcher.js)
+    at executeQuery (C:\snapshot\dndgen\packages\bin\dist\cli\get\get.js)
+9/25/2021, 8:05:03 PM Error - Invalid argument! Expected OpenCommand but got ""dm""!
+Error: Invalid argument! Expected OpenCommand but got ""dm""!
+    at new InvalidArgumentError (C:\snapshot\dndgen\packages\bin\dist\gen\errors\errors.js)
+    at Object.asOpenCommand (C:\snapshot\dndgen\packages\bin\dist\gen\utils\utils.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\open\open.js
+    at Object.default (C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js)
+    at lineToCommand (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js
+    at C:\snapshot\dndgen\packages\bin\dist\cli\help\help.js
+    at Interface.<anonymous> (C:\snapshot\dndgen\packages\bin\dist\cli\repl\repl.js)
+    at Interface.emit (node:events:394:28)
+    at Interface._onLine (node:readline:487:10)
