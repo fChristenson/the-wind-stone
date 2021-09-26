@@ -31,6 +31,7 @@
 - Killer is a changeling
 - Killer is killing in the shape of people known to the victim
 - Shimmers Bay land onwership is found either on the killers corpse or home
+- Cas is Mara Basha, the girl from Visharas room
 
 ## Solutions
 
