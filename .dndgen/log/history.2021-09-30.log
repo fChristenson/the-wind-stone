@@ -1,0 +1,30 @@
+roll 1d20
+create npc --race Human --gender female --age 25
+open dm log
+open log
+create log test
+get town
+create log town destroyed by treants
+roll 3d6
+roll 1d20
+roll 3d6
+roll 1d20
+roll 3d6
+roll 1d20
+roll 3d6
+roll 1d20
+roll 1d4
+roll 3d6
+roll 1d20
+roll 3d6
+roll 1d20
+roll 1d4
+roll 3d100
+exit
+create log something big is coming twoards the town
+create log treants take heavy fire damage
+create log tar dies in inferno attack
+battle b next
+roll 1d20
+battle b damage tar 14
+roll 3d6
